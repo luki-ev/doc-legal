@@ -31,9 +31,9 @@ Fragen und Anliegen per E-Mail an unser Librechurch-Team wenden: [support@librec
 
 ### 2.1 Finanzierung und Haftung
 
-Wir verkaufen keine Werbung und keine Daten unserer Nutzer_innen. Du bist hier nicht das Produkt, sondern Teil einer Gemeinschaft. Der Betrieb von mumble.luki.org wird durch ehrenamtliches Engangement getragen und durch Spenden finanziert. Wir laden dich herzlich ein, zu spenden und [dem LUKi e.V. beizutreten,](https://luki.org/verein-luki-e-v/mitgliedschaft/) um die Finanzierung nachhaltig zu sichern. Du musst aber nicht spenden. Die Nutzung von mumble.luki.org erfolgt unentgeltlich.
+Wir verkaufen keine Werbung und keine Daten unserer Nutzer\_innen. Du bist hier nicht das Produkt, sondern Teil einer Gemeinschaft. Der Betrieb von mumble.luki.org wird durch ehrenamtliches Engangement getragen und durch Spenden finanziert. Wir laden dich herzlich ein, zu spenden und [dem LUKi e.V. beizutreten,](https://luki.org/verein-luki-e-v/mitgliedschaft/) um die Finanzierung nachhaltig zu sichern. Du musst aber nicht spenden. Die Nutzung von mumble.luki.org erfolgt unentgeltlich.
 
-Der gemeinschaftliche Betrieb durch einen Verein soll den nachhaltigen Bestand des Systems sichern. **Die Registrierung als Nutzer_in begründet jedoch keinen Rechtsanspruch auf die Aufrechterhaltung dieses Dienstes, auf die Verfügbarkeit von Daten und keine Garantie für die vollständige und dauerhafte Speicherung und Übermittlung der Daten.** Die Haftung für Schäden, die aus der Nutzung des Dienstes entstehen, wird bei Verschulden durch den LUKi e.V. und seine Ehrenamtlichen auf Vorsatz und grobe Fahrlässigkeit beschränkt.
+Der gemeinschaftliche Betrieb durch einen Verein soll den nachhaltigen Bestand des Systems sichern. **Die Registrierung als Nutzer\_in begründet jedoch keinen Rechtsanspruch auf die Aufrechterhaltung dieses Dienstes, auf die Verfügbarkeit von Daten und keine Garantie für die vollständige und dauerhafte Speicherung und Übermittlung der Daten.** Die Haftung für Schäden, die aus der Nutzung des Dienstes entstehen, wird bei Verschulden durch den LUKi e.V. und seine Ehrenamtlichen auf Vorsatz und grobe Fahrlässigkeit beschränkt.
 
 ### 2.2 Nutzung durch Minderjährige
 
@@ -41,7 +41,7 @@ Wenn du **jünger als 18 Jahre** bist, müssen deine **Eltern** deinem Nutzungsv
 
 ### 2.3 Einschränkungen der Nutzung
 
-Wir überwachen dich, dein Nutzerkonto und deine Audiodaten nicht. Gemäß §§ 8-10 Telemediengesetz sind wir nicht für fremde Informationen verantwortlich, solange wir keine Kenntnis davon haben. Wir werden aber unverzüglich tätig, sobald wir Kenntnis von problematischen Informationen erlangen. **Wir behalten uns vor, Nutzungsmöglichkeiten einzuschränken und / oder Nutzer_innen zu blockieren,** wenn Nutzer_innen
+Wir überwachen dich, dein Nutzerkonto und deine Audiodaten nicht. Gemäß §§ 8-10 Telemediengesetz sind wir nicht für fremde Informationen verantwortlich, solange wir keine Kenntnis davon haben. Wir werden aber unverzüglich tätig, sobald wir Kenntnis von problematischen Informationen erlangen. **Wir behalten uns vor, Nutzungsmöglichkeiten einzuschränken und / oder Nutzer\_innen zu blockieren,** wenn Nutzer\_innen
 
 - gegen diese Bedingungen verstoßen,
 - gegen Gesetze der Bundesrepublik Deutschland verstoßen oder
@@ -55,10 +55,10 @@ Wenn problematisches Verhalten schnell gestoppt werden muss, können wir ohne Vo
 
 ### 3.1 Grundsätzliches
 
-Wir, die Betreiber von mumble.luki.org,  sind Christinnen und Christen. Uns ist eine Umgebung und Atmosphäre wichtig, die alle Kommunikationspartner_innen als einladend, inklusiv und respektvoll wahrnehmen können. Wir erwarten von allen Personen, die über unseren Mumble-Server kommunizieren, dass sie zu 
+Wir, die Betreiber von mumble.luki.org,  sind Christinnen und Christen. Uns ist eine Umgebung und Atmosphäre wichtig, die alle Kommunikationspartner\_innen als einladend, inklusiv und respektvoll wahrnehmen können. Wir erwarten von allen Personen, die über unseren Mumble-Server kommunizieren, dass sie zu 
 einer solchen Umgebung und Atmosphäre beitragen.
 
-Wir legen besonderen Wert darauf, dass alle Nutzer_innen bei mumble.luki.org Kommunikation gewalt- und unterdrückungsfrei erfahren, unabhängig von Religion, Bekenntnis, Kenntnis, Erfahrung, Geschlecht(-sidentität und -ausdruck), sexueller Orientierung, Einschränkung und Behinderung, persönlicher Erscheinung, Körpergröße, Ethnie, Alter oder Nationalität.
+Wir legen besonderen Wert darauf, dass alle Nutzer\_innen bei mumble.luki.org Kommunikation gewalt- und unterdrückungsfrei erfahren, unabhängig von Religion, Bekenntnis, Kenntnis, Erfahrung, Geschlecht(-sidentität und -ausdruck), sexueller Orientierung, Einschränkung und Behinderung, persönlicher Erscheinung, Körpergröße, Ethnie, Alter oder Nationalität.
 
 Wir definieren Gewalt oder Unterdrückung als jede Form von Sprache oder Handlung, die gesellschaftliche (Vor-)Herrschaft über andere in irgendeiner Form befürwortet, unterstützt, stärkt oder damit sympathisiert.
 
@@ -73,7 +73,7 @@ Folgende Verhaltensweisen sind bei uns unerwünscht:
 - Kontaktaufnahme zu Menschen, die deutlich gemacht haben, dass sie keinen Kontakt wollen; Dogpiling
 - Verbreiten von sexuellem Inhalt oder Gewaltdarstellungen
 - automatische Postings (Spam)
-- Bots, die ohne expliziten Anfrage von Nutzer_innen mit Nutzer_innen interagieren
+- Bots, die ohne expliziten Anfrage von Nutzer\_innen mit Nutzer\_innen interagieren
 
 Diese Liste ist nicht abschließend. Wenn wir feststellen, dass andere Verhaltensweisen, die wir für unerwünscht halten, mehrfach vorkommen, ergänzen wir diese Liste. Wir können aber auch in Einzelfällen Verhaltensweisen, die in der Liste noch nicht genannt sind, für unerwünscht erklären.
 
@@ -81,7 +81,7 @@ Informationen zur Bildung über freie Software und Infos über Angebote, die kir
 
 ### 3.3 Meldung von unerwünschtem Verhalten
 
-Wenn du das Verhalten anderer Nutzer_innen für unerwünscht hältst, kannst du uns per Mail an [support@librechurch.org](mailto:support@librechurch.org) benachrichtigen. Wir überprüfen alle Meldungen und ergreifen ggf. angemessene Maßnahmen. Wir schützen unter allen Umständen die Identität der meldenden Nutzer_innen.
+Wenn du das Verhalten anderer Nutzer\_innen für unerwünscht hältst, kannst du uns per Mail an [support@librechurch.org](mailto:support@librechurch.org) benachrichtigen. Wir überprüfen alle Meldungen und ergreifen ggf. angemessene Maßnahmen. Wir schützen unter allen Umständen die Identität der meldenden Nutzer\_innen.
 
 <h2 id="datenschutz">4. Datenschutzerklärung</h2>
 
@@ -96,9 +96,9 @@ Außerdem müssen wir Verpflichtungen aus dem Telemediengesetz und weiteren Gese
 
 #### 4.2.1 Audiodaten
 
-Audiodaten werden von deinem Client an unseren Server übertragen und (zusammen mit Audiodaten anderer Nutzer_innen) an alle Nutzer_innen in einem Mumble-Raum übermittelt. Zur Übermittlung ist eine kurzfristige Speicherung notwendig, unmittelbar nach der Übermittlung werden die gespeicherten Daten gelöscht.
+Audiodaten werden von deinem Client an unseren Server übertragen und (zusammen mit Audiodaten anderer Nutzer\_innen) an alle Nutzer\_innen in einem Mumble-Raum übermittelt. Zur Übermittlung ist eine kurzfristige Speicherung notwendig, unmittelbar nach der Übermittlung werden die gespeicherten Daten gelöscht.
 
-#### 4.2.2 Nutzerdaten für alle Nutzer_innen
+#### 4.2.2 Nutzerdaten für alle Nutzer\_innen
 
 Die folgenden Daten werden kurzfristig verarbeitet, um Audiokonferenzen zu ermöglichen, in Logfiles gespeichert, um technische und rechtliche Probleme lösen zu können und nach 7 Tagen gelöscht:
 
@@ -118,7 +118,7 @@ Die folgenden Daten werden kurzfristig verarbeitet, um Audiokonferenzen zu ermö
 
 - **Avatar** (optional)
 
-#### 4.2.3 Nutzerdaten für registrierte Nutzer_innen
+#### 4.2.3 Nutzerdaten für registrierte Nutzer\_innen
 
 Du kannst dich bei mumble.luki.org registrieren (die Registrierung ist zur Nutzung aber nicht erforderlich). Dann werden folgende Daten gespeichert:
 
@@ -140,13 +140,13 @@ Du kannst dich bei mumble.luki.org registrieren (die Registrierung ist zur Nutzu
 
 Wir speichern diese Daten langfristig, damit du dich immer wieder mit deinen Daten bei mumble.luki.org anmelden kannst. Wenn du uns per E-Mail an [support@librechurch.org](mailto:support@librechurch.org) um eine Löschung deiner Daten bittest und uns in einem Mumble-Gespräch bestätigst, dass diese E-Mail wirklich von dir kam, löschen wir deine Daten.
 
-#### 4.2.4 Daten zu blockierten Nutzer_innen
+#### 4.2.4 Daten zu blockierten Nutzer\_innen
 
-Wir können **Benutzernamen und/oder IP-Adressen** blockieren, um Nutzer_innen die gegen unsere Nutzungsbedigungen und/oder den Verhaltenskodex verstoßen haben, von der Nutzung unseres Servers auszuschließen. Dazu werden Benutzernamen und/oder IP-Adressen gespeichert, solange der Ausschluss erforderlich ist.
+Wir können **Benutzernamen und/oder IP-Adressen** blockieren, um Nutzer\_innen die gegen unsere Nutzungsbedigungen und/oder den Verhaltenskodex verstoßen haben, von der Nutzung unseres Servers auszuschließen. Dazu werden Benutzernamen und/oder IP-Adressen gespeichert, solange der Ausschluss erforderlich ist.
 
 ### 4.3 Wer kann Daten sehen oder hören?
 
-- **Mumble-Nutzer_innen,** mit denen du in Räumen zusammen bist
+- **Mumble-Nutzer\_innen,** mit denen du in Räumen zusammen bist
 
 - unsere **Serveradministratoren** (wenn das zur Behebung von Problemen erforderlich ist)
 
@@ -158,7 +158,7 @@ Wir können **Benutzernamen und/oder IP-Adressen** blockieren, um Nutzer_innen d
 
 ### 4.4 Werden Daten in Länder außerhalb von EU und EWR übertragen?
 
-Wenn du einen Mumble-Raum nutzt, in dem sich auch Nutzer_innen aus Ländern befinden, die nicht zur Europäischen Union (EU) und nicht zum Europäischen Wirtschaftsraum (EWR) gehören, werden Daten in diese Länder übertragen. Weil wir nicht wissen, mit wem du über Mumble sprichst, können wir dir an dieser Stelle nicht sagen, in welche Länder Daten übertragen werden und wie dort das Datenschutzniveau garantiert wird. Aber wir übermitteln nur dann Daten in Länder außerhalb von EU und EWR, wenn dies erforderlich ist, um im Rahmen deines Nutzungsverhältnisses für mumble.luki.org von dir gewünschte Kommunikationsbeziehungen aufzubauen und zu pflegen, die über EU und EWR hinausgehen (gemäß Art. 49 Abs. 1 Satz 1 Buchst. b DSGVO).
+Wenn du einen Mumble-Raum nutzt, in dem sich auch Nutzer\_innen aus Ländern befinden, die nicht zur Europäischen Union (EU) und nicht zum Europäischen Wirtschaftsraum (EWR) gehören, werden Daten in diese Länder übertragen. Weil wir nicht wissen, mit wem du über Mumble sprichst, können wir dir an dieser Stelle nicht sagen, in welche Länder Daten übertragen werden und wie dort das Datenschutzniveau garantiert wird. Aber wir übermitteln nur dann Daten in Länder außerhalb von EU und EWR, wenn dies erforderlich ist, um im Rahmen deines Nutzungsverhältnisses für mumble.luki.org von dir gewünschte Kommunikationsbeziehungen aufzubauen und zu pflegen, die über EU und EWR hinausgehen (gemäß Art. 49 Abs. 1 Satz 1 Buchst. b DSGVO).
 
 ### 4.5 Werden Daten für automatisierte Entscheidungen verwendet?
 
@@ -182,7 +182,7 @@ Du hast ein Recht auf
 Wende dich bitte per E-Mail an [support@librechurch.org](mailto:support@librechurch.org), wenn du eins dieser Rechte wahrnehmen willst.
 
 Wenn du dich zur Wahrnehmung von Rechten an uns wendest, müssen wir 
-sicherstellen, dass du die Person bist, der der entsprechende Mumble-Benutzername zugeordnet ist oder zugeordnet war. Wenn du dich als Mumble-Nutzer_in registriert hast, vereinbaren wir per E-Mail mit dir einen Termin für ein Mumble-Gespräch, in dem du mit deinem Mumble-Benutzername gegenüber einem Serveradmistrator bestätigen kannst, dass die E-Mail zur Wahrnehmung deiner Rechte wirklich von dir kam. Wenn du dich nicht registriert hast, bräuchten wir zur Authentifizierung einen Nachweis darüber, dass du bei deiner letzten Verbindung mit unserem Mumble-Server die IP-Adresse hattest, die im Mumble-Logfile (7 Tage lang) gespeichert ist.
+sicherstellen, dass du die Person bist, der der entsprechende Mumble-Benutzername zugeordnet ist oder zugeordnet war. Wenn du dich als Mumble-Nutzer\_in registriert hast, vereinbaren wir per E-Mail mit dir einen Termin für ein Mumble-Gespräch, in dem du mit deinem Mumble-Benutzername gegenüber einem Serveradmistrator bestätigen kannst, dass die E-Mail zur Wahrnehmung deiner Rechte wirklich von dir kam. Wenn du dich nicht registriert hast, bräuchten wir zur Authentifizierung einen Nachweis darüber, dass du bei deiner letzten Verbindung mit unserem Mumble-Server die IP-Adresse hattest, die im Mumble-Logfile (7 Tage lang) gespeichert ist.
 
 #### Recht auf Beschwerde
 
