@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<title>Mumble-Hinweise</title>
+
+
+<style type="text/css">
+body {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+  padding: 30px; }
+
+body > *:first-child {
+  margin-top: 0 !important; }
+body > *:last-child {
+  margin-bottom: 0 !important; }
+
+a {
+  color: #4183C4; }
+a.absent {
+  color: #cc0000; }
+a.anchor {
+  display: block;
+  padding-left: 30px;
+  margin-left: -30px;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0; }
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  cursor: text;
+  position: relative; }
+
+h1:hover a.anchor, h2:hover a.anchor, h3:hover a.anchor, h4:hover a.anchor, h5:hover a.anchor, h6:hover a.anchor {
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA09pVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoMTMuMCAyMDEyMDMwNS5tLjQxNSAyMDEyLzAzLzA1OjIxOjAwOjAwKSAgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OUM2NjlDQjI4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OUM2NjlDQjM4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo5QzY2OUNCMDg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo5QzY2OUNCMTg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PsQhXeAAAABfSURBVHjaYvz//z8DJYCRUgMYQAbAMBQIAvEqkBQWXI6sHqwHiwG70TTBxGaiWwjCTGgOUgJiF1J8wMRAIUA34B4Q76HUBelAfJYSA0CuMIEaRP8wGIkGMA54bgQIMACAmkXJi0hKJQAAAABJRU5ErkJggg==) no-repeat 10px center;
+  text-decoration: none; }
+
+h1 tt, h1 code {
+  font-size: inherit; }
+
+h2 tt, h2 code {
+  font-size: inherit; }
+
+h3 tt, h3 code {
+  font-size: inherit; }
+
+h4 tt, h4 code {
+  font-size: inherit; }
+
+h5 tt, h5 code {
+  font-size: inherit; }
+
+h6 tt, h6 code {
+  font-size: inherit; }
+
+h1 {
+  font-size: 28px;
+  color: black; }
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #cccccc;
+  color: black; }
+
+h3 {
+  font-size: 18px; }
+
+h4 {
+  font-size: 16px; }
+
+h5 {
+  font-size: 14px; }
+
+h6 {
+  color: #777777;
+  font-size: 14px; }
+
+p, blockquote, ul, ol, dl, li, table, pre {
+  margin: 15px 0; }
+
+hr {
+  background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAYAAACtBE5DAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OENDRjNBN0E2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OENDRjNBN0I2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4Q0NGM0E3ODY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4Q0NGM0E3OTY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqqezsUAAAAfSURBVHjaYmRABcYwBiM2QSA4y4hNEKYDQxAEAAIMAHNGAzhkPOlYAAAAAElFTkSuQmCC) repeat-x 0 0;
+  border: 0 none;
+  color: #cccccc;
+  height: 4px;
+  padding: 0;
+}
+
+body > h2:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+body > h1:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+  body > h1:first-child + h2 {
+    margin-top: 0;
+    padding-top: 0; }
+body > h3:first-child, body > h4:first-child, body > h5:first-child, body > h6:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0; }
+
+h1 p, h2 p, h3 p, h4 p, h5 p, h6 p {
+  margin-top: 0; }
+
+li p.first {
+  display: inline-block; }
+li {
+  margin: 0; }
+ul, ol {
+  padding-left: 30px; }
+
+ul :first-child, ol :first-child {
+  margin-top: 0; }
+
+dl {
+  padding: 0; }
+  dl dt {
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 0;
+    margin: 15px 0 5px; }
+    dl dt:first-child {
+      padding: 0; }
+    dl dt > :first-child {
+      margin-top: 0; }
+    dl dt > :last-child {
+      margin-bottom: 0; }
+  dl dd {
+    margin: 0 0 15px;
+    padding: 0 15px; }
+    dl dd > :first-child {
+      margin-top: 0; }
+    dl dd > :last-child {
+      margin-bottom: 0; }
+
+blockquote {
+  border-left: 4px solid #dddddd;
+  padding: 0 15px;
+  color: #777777; }
+  blockquote > :first-child {
+    margin-top: 0; }
+  blockquote > :last-child {
+    margin-bottom: 0; }
+
+table {
+  padding: 0;border-collapse: collapse; }
+  table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0; }
+    table tr:nth-child(2n) {
+      background-color: #f8f8f8; }
+    table tr th {
+      font-weight: bold;
+      border: 1px solid #cccccc;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr td {
+      border: 1px solid #cccccc;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr th :first-child, table tr td :first-child {
+      margin-top: 0; }
+    table tr th :last-child, table tr td :last-child {
+      margin-bottom: 0; }
+
+img {
+  max-width: 100%; }
+
+span.frame {
+  display: block;
+  overflow: hidden; }
+  span.frame > span {
+    border: 1px solid #dddddd;
+    display: block;
+    float: left;
+    overflow: hidden;
+    margin: 13px 0 0;
+    padding: 7px;
+    width: auto; }
+  span.frame span img {
+    display: block;
+    float: left; }
+  span.frame span span {
+    clear: both;
+    color: #333333;
+    display: block;
+    padding: 5px 0 0; }
+span.align-center {
+  display: block;
+  overflow: hidden;
+  clear: both; }
+  span.align-center > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px auto 0;
+    text-align: center; }
+  span.align-center span img {
+    margin: 0 auto;
+    text-align: center; }
+span.align-right {
+  display: block;
+  overflow: hidden;
+  clear: both; }
+  span.align-right > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px 0 0;
+    text-align: right; }
+  span.align-right span img {
+    margin: 0;
+    text-align: right; }
+span.float-left {
+  display: block;
+  margin-right: 13px;
+  overflow: hidden;
+  float: left; }
+  span.float-left span {
+    margin: 13px 0 0; }
+span.float-right {
+  display: block;
+  margin-left: 13px;
+  overflow: hidden;
+  float: right; }
+  span.float-right > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px auto 0;
+    text-align: right; }
+
+code, tt {
+  margin: 0 2px;
+  padding: 0 5px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px; }
+
+pre code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent; }
+
+.highlight pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+  pre code, pre tt {
+    background-color: transparent;
+    border: none; }
+
+sup {
+    font-size: 0.83em;
+    vertical-align: super;
+    line-height: 0;
+}
+
+kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font-size: 11px;
+  line-height: 10px;
+  color: #555;
+  vertical-align: middle;
+  background-color: #fcfcfc;
+  border: solid 1px #ccc;
+  border-bottom-color: #bbb;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #bbb
+}
+
+* {
+	-webkit-print-color-adjust: exact;
+}
+@media screen and (min-width: 914px) {
+    body {
+        width: 854px;
+        margin:0 auto;
+    }
+}
+@media print {
+	table, pre {
+		page-break-inside: avoid;
+	}
+	pre {
+		word-wrap: break-word;
+	}
+}
+</style>
+
+
+</head>
+
+<body>
+
+<h1 id="toc_0">Hinweise zu mumble.luki.org</h1>
+
+<p>mumble.luki.org ist eine datenschutzkonforme Audiokonferenzlösung. Wir vom LUKi e.V. stellen dir unseren Mumble-Server uneigennützig zur Verfügung. Du kannst unseren Server nutzen, wenn du unsere Nutzungsbedigungen und unseren Verhaltenskodex anerkennst. Hier findest du folgende Hinweise zu unserem Angebot:</p>
+
+<ol>
+<li><a href="#impressum">Impressum und Verantwortlichkeit</a></li>
+<li><a href="#nutzungsbedingungen">Nutzungsbedingungen</a></li>
+<li><a href="#verhaltenskodex">Verhaltenskodex</a></li>
+<li><a href="#datenschutz">Datenschutzerklärung</a></li>
+</ol>
+
+<h2 id="impressum">1. Impressum und Verantwortlichkeit</h2>
+
+<p>Anbieter des Telemedienangebots mumble.luki.org und für die Datenverarbeitung durch diesen Mumble-Server verantwortlich ist:</p>
+
+<p>LUKi e.V.<br>
+Jakobstr.5<br>
+66130 Saarbrücken<br>
+Deutschland</p>
+
+<p>E-Mail: <a href="mailto:vorstand@luki.org">vorstand@luki.org</a></p>
+
+<p>Vereinregister beim Amtsgericht Augsburg VR 51290</p>
+
+<p>Weitere Angaben (Vorstandsmitglieder etc.) findest du im <a href="https://luki.org/impressum/">Impressum
+unserer Vereins-Website luki.org</a>.</p>
+
+<p>Weil wir ein kleiner Verein sind, haben wir keine(n) 
+Datenschutzbeauftragte(n) bestellt. Du kannst dich aber jederzeit mit 
+Fragen und Anliegen per E-Mail an unser Librechurch-Team wenden: <a href="mailto:support@librechurch.org">support@librechurch.org.</a></p>
+
+<h2 id="nutzungsbedingungen">2. Nutzungsbedingungen</h2>
+
+<h3 id="toc_1">2.1 Finanzierung und Haftung</h3>
+
+<p>Wir verkaufen keine Werbung und keine Daten unserer Nutzer_innen. Du bist hier nicht das Produkt, sondern Teil einer Gemeinschaft. Der Betrieb von mumble.luki.org wird durch ehrenamtliches Engangement getragen und durch Spenden finanziert. Wir laden dich herzlich ein, zu spenden und <a href="https://luki.org/verein-luki-e-v/mitgliedschaft/">dem LUKi e.V. beizutreten,</a> um die Finanzierung nachhaltig zu sichern. Du musst aber nicht spenden. Die Nutzung von mumble.luki.org erfolgt unentgeltlich.</p>
+
+<p>Der gemeinschaftliche Betrieb durch einen Verein soll den nachhaltigen Bestand des Systems sichern. <strong>Die Registrierung als Nutzer_in begründet jedoch keinen Rechtsanspruch auf die Aufrechterhaltung dieses Dienstes, auf die Verfügbarkeit von Daten und keine Garantie für die vollständige und dauerhafte Speicherung und Übermittlung der Daten.</strong> Die Haftung für Schäden, die aus der Nutzung des Dienstes entstehen, wird bei Verschulden durch den LUKi e.V. und seine Ehrenamtlichen auf Vorsatz und grobe Fahrlässigkeit beschränkt.</p>
+
+<h3 id="toc_2">2.2 Nutzung durch Minderjährige</h3>
+
+<p>Wenn du <strong>jünger als 18 Jahre</strong> bist, müssen deine <strong>Eltern</strong> deinem Nutzungsverhältnis für mumble.luki.org <strong>zustimmen</strong>. Wir bieten Formulare an, die in Jugendgruppen von Kirchengemeinden und ähnlichen Organisationen verteilt werden können, um die Zustimmung der Eltern nachzuweisen.</p>
+
+<h3 id="toc_3">2.3 Einschränkungen der Nutzung</h3>
+
+<p>Wir überwachen dich, dein Nutzerkonto und deine Audiodaten nicht. Gemäß §§ 8-10 Telemediengesetz sind wir nicht für fremde Informationen verantwortlich, solange wir keine Kenntnis davon haben. Wir werden aber unverzüglich tätig, sobald wir Kenntnis von problematischen Informationen erlangen. <strong>Wir behalten uns vor, Nutzungsmöglichkeiten einzuschränken und / oder Nutzer_innen zu blockieren,</strong> wenn Nutzer_innen</p>
+
+<ul>
+<li>gegen diese Bedingungen verstoßen,</li>
+<li>gegen Gesetze der Bundesrepublik Deutschland verstoßen oder</li>
+<li>unseren Verhaltenskodex nicht beachten.</li>
+</ul>
+
+<p>Wenn problematisches Verhalten schnell gestoppt werden muss, können wir ohne Vorankündigung Maßnahmen ergreifen.</p>
+
+<p><strong>Bitte achte bei deiner Nutzung von mumble.luki.org selbst auf die Einhaltung dieser Bedingungen, auf den Verhaltenskodex und auf Gesetze,</strong> insbesondere auf Urheberrechte für Texte, Musik und Audioaufnahmen, auf Persönlichkeitsrechte sowie auf Gesetze zum Jugendschutz.</p>
+
+<h2 id="verhaltenskodex">3. Verhaltenskodex</h2>
+
+<h3 id="toc_4">3.1 Grundsätzliches</h3>
+
+<p>Wir, die Betreiber von mumble.luki.org,  sind Christinnen und Christen. Uns ist eine Umgebung und Atmosphäre wichtig, die alle Kommunikationspartner_innen als einladend, inklusiv und respektvoll wahrnehmen können. Wir erwarten von allen Personen, die über unseren Mumble-Server kommunizieren, dass sie zu 
+einer solchen Umgebung und Atmosphäre beitragen.</p>
+
+<p>Wir legen besonderen Wert darauf, dass alle Nutzer_innen bei mumble.luki.org Kommunikation gewalt- und unterdrückungsfrei erfahren, unabhängig von Religion, Bekenntnis, Kenntnis, Erfahrung, Geschlecht(-sidentität und -ausdruck), sexueller Orientierung, Einschränkung und Behinderung, persönlicher Erscheinung, Körpergröße, Ethnie, Alter oder Nationalität.</p>
+
+<p>Wir definieren Gewalt oder Unterdrückung als jede Form von Sprache oder Handlung, die gesellschaftliche (Vor-)Herrschaft über andere in irgendeiner Form befürwortet, unterstützt, stärkt oder damit sympathisiert.</p>
+
+<h3 id="toc_5">3.2 Unerwünschte Verhaltensweisen</h3>
+
+<p>Folgende Verhaltensweisen sind bei uns unerwünscht:</p>
+
+<ul>
+<li>Belästigung, Stalking, Doxxing</li>
+<li>Rassismus, Sexismus, Beschimpfungen oder deren Befürwortung</li>
+<li>Diskriminierung von Geschlechtern und Minderheiten</li>
+<li>Gewalttätige nationalistische Propaganda, Nazi-Symbolismus oder Förderung der Ideologie des Nationalsozialismus</li>
+<li>Kontaktaufnahme zu Menschen, die deutlich gemacht haben, dass sie keinen Kontakt wollen; Dogpiling</li>
+<li>Verbreiten von sexuellem Inhalt oder Gewaltdarstellungen</li>
+<li>automatische Postings (Spam)</li>
+<li>Bots, die ohne expliziten Anfrage von Nutzer<em>innen mit Nutzer</em>innen interagieren</li>
+</ul>
+
+<p>Diese Liste ist nicht abschließend. Wenn wir feststellen, dass andere Verhaltensweisen, die wir für unerwünscht halten, mehrfach vorkommen, ergänzen wir diese Liste. Wir können aber auch in Einzelfällen Verhaltensweisen, die in der Liste noch nicht genannt sind, für unerwünscht erklären.</p>
+
+<p>Informationen zur Bildung über freie Software und Infos über Angebote, die kirchlichen, diakonischen, mildtätigen oder gemeinnützigen Zwecken dienen, sind bei mumble.luki.org willkommen. Werbung für andere Produkte, Angebote oder Zwecke ist bei uns unerwünscht.</p>
+
+<h3 id="toc_6">3.3 Meldung von unerwünschtem Verhalten</h3>
+
+<p>Wenn du das Verhalten anderer Nutzer<em>innen für unerwünscht hältst, kannst du uns per Mail an <a href="mailto:support@librechurch.org">support@librechurch.org</a> benachrichtigen. Wir überprüfen alle Meldungen und ergreifen ggf. angemessene Maßnahmen. Wir schützen unter allen Umständen die Identität der meldenden Nutzer</em>innen.</p>
+
+<h2 id="datenschutz">4. Datenschutzerklärung</h2>
+
+<h3 id="toc_7">4.1 Wofür und auf welcher Rechtsgrundlage werden Daten verarbeitet?</h3>
+
+<p>Wir bieten mumble.luki.org als Audiokonferenzlösung uneigennützig an, um einzelne Personen, aber auch Gruppen, Vereine, Verbände und Kirchengemeinden bei der Nutzung der frei zugänglichen Software „Mumble“ zu unterstützen. Du kannst dieses Angebot annehmen, indem du einen Mumble-Client mit unserem Server mumble.luki.org verbindest. Dann entsteht ein Nutzungsverhältnis zwischen dir und LUKi e.V., das durch die
+Nutzungsbedingungen genauer bestimmt wird. <strong>Zur Erfüllung unserer Pflichten im Rahmen dieses Nutzungsverhältnisses</strong> verarbeiten wir personenbezogene Daten gemäß Art. 6 Abs. 1 Buchst. b DSGVO.</p>
+
+<p>Außerdem müssen wir Verpflichtungen aus dem Telemediengesetz und weiteren Gesetzen erfüllen. <strong>Zur Erfüllung von rechtlichen Verpflichtungen</strong> verarbeiten wir die erforderlichen personenbezogenen Daten gemäß Art. 6 Abs. 1 Buchst. c DSGVO.</p>
+
+<h3 id="toc_8">4.2 Welche Daten werden verarbeitet, wann werden sie gelöscht?</h3>
+
+<h4 id="toc_9">4.2.1 Audiodaten</h4>
+
+<p>Audiodaten werden von deinem Client an unseren Server übertragen und (zusammen mit Audiodaten anderer Nutzer<em>innen) an alle Nutzer</em>innen in einem Mumble-Raum übermittelt. Zur Übermittlung ist eine kurzfristige Speicherung notwendig, unmittelbar nach der Übermittlung werden die gespeicherten Daten gelöscht.</p>
+
+<h4 id="toc_10">4.2.2 Nutzerdaten für alle Nutzer_innen</h4>
+
+<p>Die folgenden Daten werden kurzfristig verarbeitet, um Audiokonferenzen zu ermöglichen, in Logfiles gespeichert, um technische und rechtliche Probleme lösen zu können und nach 7 Tagen gelöscht:</p>
+
+<ul>
+<li><p>dein <strong>Benutzername</strong> (du kannst bei jedem Verbindungsaufbau einen anderen Benutzernamen wählen und mumble.luki.org pseudonym nutzen)</p></li>
+<li><p>deine <strong>IP-Adresse</strong></p></li>
+<li><p>der <strong>Zugriffszeitpunkt</strong></p></li>
+<li><p>die <strong>Version deines Clients</strong> (lässt evtl. Rückschlüsse auf dein Betriebssystem zu)</p></li>
+<li><p>Angaben zum <strong>Audiocodec</strong></p></li>
+<li><p>genutzte <strong>Räume</strong> auf dem Mumble-Server</p></li>
+<li><p><strong>Kommentar</strong> (optional)</p></li>
+<li><p><strong>Avatar</strong> (optional)</p></li>
+</ul>
+
+<h4 id="toc_11">4.2.3 Nutzerdaten für registrierte Nutzer_innen</h4>
+
+<p>Du kannst dich bei mumble.luki.org registrieren (die Registrierung ist zur Nutzung aber nicht erforderlich). Dann werden folgende Daten gespeichert:</p>
+
+<ul>
+<li><p><strong>Benutzername</strong> (du kannst bei der Registrierung einen beliebigen Benutzernamen wäheln, sofern der Name noch nicht vergeben ist)</p></li>
+<li><p><strong>Zertifikat / Passwort</strong></p></li>
+<li><p>zuletzt genutzte <strong>IP-Adresse</strong></p></li>
+<li><p>zuletzt genutzter <strong>Mumble-Raum</strong></p></li>
+<li><p><strong>Zeitpunkt des letzten Zugriffs</strong></p></li>
+<li><p><strong>Benutzerrechte</strong> (in einer „Access Control List“)</p></li>
+<li><p><strong>Kommentar</strong> (optional)</p></li>
+<li><p><strong>Avatar</strong> (optional)</p></li>
+</ul>
+
+<p>Wir speichern diese Daten langfristig, damit du dich immer wieder mit deinen Daten bei mumble.luki.org anmelden kannst. Wenn du uns per E-Mail an <a href="mailto:support@librechurch.org">support@librechurch.org</a> um eine Löschung deiner Daten bittest und uns in einem Mumble-Gespräch bestätigst, dass diese E-Mail wirklich von dir kam, löschen wir deine Daten.</p>
+
+<h4 id="toc_12">4.2.4 Daten zu blockierten Nutzer_innen</h4>
+
+<p>Wir können <strong>Benutzernamen und/oder IP-Adressen</strong> blockieren, um Nutzer_innen die gegen unsere Nutzungsbedigungen und/oder den Verhaltenskodex verstoßen haben, von der Nutzung unseres Servers auszuschließen. Dazu werden Benutzernamen und/oder IP-Adressen gespeichert, solange der Ausschluss erforderlich ist.</p>
+
+<h3 id="toc_13">4.3 Wer kann Daten sehen oder hören?</h3>
+
+<ul>
+<li><p><strong>Mumble-Nutzer_innen,</strong> mit denen du in Räumen zusammen bist</p></li>
+<li><p>unsere <strong>Serveradministratoren</strong> (wenn das zur Behebung von Problemen erforderlich ist)</p></li>
+<li><p>unser Serverprovider, die <a href="https://www.hostsharing.net"><strong>Hostsharing eG</strong></a> (kontrolliert durch einen Auftragsverarbeitungsvertrag)</p></li>
+<li><p><strong>Behörden</strong>, denen LUKi e.V. aufgrund gesetzlicher Verpflichtungen Daten offenlegen muss</p></li>
+<li><p><strong>Sonstige</strong> Personen oder Organisationen, wenn gerichtlich festgestellt wird, dass LUKi e.V. diesen Personen oder Organisationen Daten offenlegen muss</p></li>
+</ul>
+
+<h3 id="toc_14">4.4 Werden Daten in Länder außerhalb von EU und EWR übertragen?</h3>
+
+<p>Wenn du einen Mumble-Raum nutzt, in dem sich auch Nutzer_innen aus Ländern befinden, die nicht zur Europäischen Union (EU) und nicht zum Europäischen Wirtschaftsraum (EWR) gehören, werden Daten in diese Länder übertragen. Weil wir nicht wissen, mit wem du über Mumble sprichst, können wir dir an dieser Stelle nicht sagen, in welche Länder Daten übertragen werden und wie dort das Datenschutzniveau garantiert wird. Aber wir übermitteln nur dann Daten in Länder außerhalb von EU und EWR, wenn dies erforderlich ist, um im Rahmen deines Nutzungsverhältnisses für mumble.luki.org von dir gewünschte Kommunikationsbeziehungen aufzubauen und zu pflegen, die über EU und EWR hinausgehen (gemäß Art. 49 Abs. 1 Satz 1 Buchst. b DSGVO).</p>
+
+<h3 id="toc_15">4.5 Werden Daten für automatisierte Entscheidungen verwendet?</h3>
+
+<p>Nein, bei mumble.luki.org gibt es keine automatisierte Entscheidungsfindung und kein Profiling, das rechtliche Wirkung entfaltet oder Personen in ähnlicher Weise beeinträchtigt (vgl. Art. 22 Abs. 1 DSGVO).</p>
+
+<h3 id="toc_16">4.6 Deine Rechte</h3>
+
+<p>Du hast ein Recht auf  </p>
+
+<ul>
+<li><p><strong>Auskunft</strong> darüber, welche Daten wir zu dir gespeichert haben (gemäß Art. 15 DSGVO),</p></li>
+<li><p><strong>Berichtigung</strong> falscher Daten (gemäß Art. 16 DSGVO),</p></li>
+<li><p><strong>Löschung</strong> („Vergessen werden“) oder <strong>Einschränkung der Verarbeitung</strong> (gemäß Art. 17-18 DSGVO),</p></li>
+<li><p><strong>Widerspruch</strong> (gemäß Art. 21 DSGVO),</p></li>
+<li><p>Erhalt deiner <strong>Daten in einem strukturierten, gängigen und maschinenlesbaren Format</strong>,  das du evtl. an einen anderen Mumble-Server übermitteln kannst oder ein Recht darauf, dass wir deine Daten direkt an einen anderen Dienst übermitteln, soweit dies technisch möglich ist (gemäß Art. 20 
+DSGVO).</p></li>
+</ul>
+
+<p>Wende dich bitte per E-Mail an <a href="mailto:support@librechurch.org">support@librechurch.org</a>, wenn du eins dieser Rechte wahrnehmen willst.</p>
+
+<p>Wenn du dich zur Wahrnehmung von Rechten an uns wendest, müssen wir 
+sicherstellen, dass du die Person bist, der der entsprechende Mumble-Benutzername zugeordnet ist oder zugeordnet war. Wenn du dich als Mumble-Nutzer_in registriert hast, vereinbaren wir per E-Mail mit dir einen Termin für ein Mumble-Gespräch, in dem du mit deinem Mumble-Benutzername gegenüber einem Serveradmistrator bestätigen kannst, dass die E-Mail zur Wahrnehmung deiner Rechte wirklich von dir kam. Wenn du dich nicht registriert hast, bräuchten wir zur Authentifizierung einen Nachweis darüber, dass du bei deiner letzten Verbindung mit unserem Mumble-Server die IP-Adresse hattest, die im Mumble-Logfile (7 Tage lang) gespeichert ist.</p>
+
+<h4 id="toc_17">Recht auf Beschwerde</h4>
+
+<p>Wenn du der Meinung bist, dass wir deine Rechte verletzen, kannst du dich bei der für LUKi e.v. zuständigen Datenschutz-Aufsichtsbehörde beschweren. LUKi e.V. ist im Vereinsregister Augsburg, Bayern, registriert. Zuständig ist deshalb:</p>
+
+<p>Bayerisches Landesamt für Datenschutzaufsicht (BayLDA)<br>
+Kontaktmöglichkeiten: <a href="https://www.lda.bayern.de/de/kontakt.html">https://www.lda.bayern.de/de/kontakt.html</a></p>
+
+<h2 id="toc_18">Hinweise zu diesem Dokument</h2>
+
+<p>Wir verbessern mumble.luki.org kontinuierlich. Wenn sich dabei Veränderungen bei der Datenverarbeitung oder Änderungsbedarf bei Nutzungsbedinungen und Verhaltenskodex ergeben, passen wir diese Hinweise an. Wir empfehlen dir deshalb, ab und zu wieder hier vorbeizuschauen. Bisher gab es folgende Versionen:</p>
+
+<ul>
+<li>1.0 – 29.03.2020: Initiale Version.</li>
+</ul>
+
+<p>Wenn du Verbesserungsvorschläge hast, freuen wir uns darüber. Wir freuen uns auch über Fragen, weil sie uns helfen, den Text zu verbessern und verständlicher zu machen. Schick Fragen oder Verbesserungsvorschläge bitte per E-Mail an <a href="mailto:support@librechurch.org">support@librechurch.org</a>.</p>
+
+<h3 id="toc_19">Texte, die uns geholfen haben</h3>
+
+<ul>
+<li>Die Grundsatzbestimmungen unseres Verhaltenskodex basieren auf dem <a href="https://hub.fosstodon.org/code-of-conduct">Code of Conduct von Fosstodon</a>.</li>
+<li>Die Liste unerwünschter Verhaltensweisen basiert auf dem <a href="https://social.saarland/about/more">Verhaltenskodex von social.saarland</a>.</li>
+</ul>
+
+
+
+
+</body>
+
+</html>
