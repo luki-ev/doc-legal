@@ -261,4 +261,4 @@ Dieser Verhaltenskodex basiert auf dem Code of Conduct von Fosstodon, https://hu
 
 Version 1.2 vom 2. März 2019.
 
-Dieses Dokument ist ein Gemeinschaftsprodukt. Vorschläge zur Weiterentwicklung können unter https://pad.luki.org/p/Mastodon_Nutzungsbedingungen gemacht werden. Über die Aufnahme in den offiziellen Text der Instanz entscheidet der Vorstand des LUKi e.V.
+Dieses Dokument ist ein Gemeinschaftsprodukt. Vorschläge zur Weiterentwicklung können unter https://github.com/luki-ev/doc-legal/blob/master/kirche.social/Nutzungsbedingungen%20und%20Verhaltenskodex.md gemacht werden. Über die Aufnahme in den offiziellen Text der Instanz entscheidet der Vorstand des LUKi e.V.
