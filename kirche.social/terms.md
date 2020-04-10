@@ -28,7 +28,11 @@ Vertretungsberechtigter Vorstand:
 
 Vereinregister beim Amtsgericht Augsburg VR 51290
 
-Inhaltlich Verantwortliche unserer Vereins-Accounts [@luki](https://kirche.social/users/luki) und [@librechurch](https://kirche.social/users/librechurch) gemäß § 55 Abs. 2 RStV sind auf den Profilseiten der Accounts genannt.
+Inhaltlich Verantwortlicher für unsere Vereins-Accounts [@luki](https://kirche.social/users/luki) und [@librechurch](https://kirche.social/users/librechurch) gemäß § 55 Abs. 2 RStV ist:
+
+Johannes Brakensiek  
+Südseestraße 4  
+45357 Essen
 
 Für eigene Informationen (d.h. für Inhalte der erklärenden Seiten und des User-Interface sowie für unsere Vereins-Accounts) sind wir gemäß § 7 Abs. 1 TMG nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8-10 TMG sind wir als Diensteanbieter aber nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine Haftung und Verantwortlichkeit ist jedoch erst möglich, sobald wir von einer Rechtsverletzung Kenntnis erhalten. Dann werden wir umgehend die nötigen Maßnahmen ergreifen.
 
