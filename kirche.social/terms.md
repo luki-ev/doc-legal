@@ -125,6 +125,77 @@ In einzelnen Fällen werden Beiträge auf Italienisch, Latein, Altgriechisch und
 
 <h2 id="datenschutz">4. Datenschutzerklärung</h2>
 
+Diese Datenschutzhinweise klären dich darüber auf, welche Informationen bei der Nutzung der Mastodon-Instanz verarbeitet werden und welche Rechte du gegenüber uns, dem LUKi e.V., als Betreiber der Instanz hast. Alle hier dargestellten Ausführungen und die Aufklärung über deine Rechte richten sich nach der seit dem 25.05.2018 geltenden europäischen Datenschutz-Grundverordnung (DSGVO).
+
+### 4.1 Datenverarbeitung bei Aufruf der Startseite, Registrierungsmaske und Nutzung im Allgemeinen
+
+Sobald du die Startseite von kirche.social aufrufst, um dich zu registrieren oder auch während der Nutzung im Allgemeinen, wird eine Verbindung zum Webserver aufgebaut, auf dem diese Instanz betrieben wird. Um dem Browser deines Endgeräts die Seite anzeigen zu können, werden dabei entsprechend dem HTTP und TCP/IP Protokoll gewisse Daten verarbeitet. Dazu gehören:
+
+- die IP-Adresse deines Internetanschlusses,
+- der Zeitpunkt deines Zugriffs auf die Webseite,
+- die Adresse der aufgerufenen Webseite,
+- Informationen zu deinem Gerät, z.B.
+  - die Betriebssystemversion deines PCs, Tablets oder Smartphones,
+  - der von dir genutzte Internetbrowser oder die genutzte App,
+  - der Gerätetyp (z.B. „Mobile“),
+  - bevorzugte Sprache(n),
+  - die Displayauflösung deines Geräts,
+  - der Standort deines Geräts,
+- sowie evtl. die verweisende Webseite (Referrer).
+
+Diese technischen Daten werden verarbeitet, damit diese Webseite von dem Webserver an dein Endgerät übermittelt und von deinem Browser richtig verarbeitet und angezeigt werden kann. Nach jedem Seitenaufruf werden einige dieser Daten in Logfiles gespeichert, die für die Wartung und Sicherheit des Servers erforderlich sind. Nach 8 Tagen werden die Logfiles gelöscht. Zugriff auf die Daten haben nur Serveradministratoren des LUKi e.V. und unser Webhoster, die [Hostsharing eG](https://www.hostsharing.net/). Die Hostsharing eG unterliegt als Auftragsverarbeiter unseren Anweisungen und hat sich vertraglich zur Einhaltung technischer und organisatorischer Sicherungsmaßnahmen verpflichtet.
+
+Die Datenverarbeitung erfolgt dabei gemäß Art. 6 Abs. 1 Buchst. b) 
+DSGVO im erforderlichen Umfang, um dir den Aufruf der Startseite sowie die Registrierung im Rahmen des Nutzungsverhältnisses zwischen uns (als Betreiber der Instanz) und dir (als Nutzer:in) zu ermöglichen sowie zur Erfüllung der Verpflichtung zur Ergreifung technisch-organisatorischer Schutzmaßnahmen.
+
+### 4.2 Datenverarbeitung bei der Registrierung
+
+Im Rahmen der Registrierung und zur Konfiguration deines Nutzerkontos verarbeiten wir grundlegende Kontoinformationen: Dazu zählen Benutzername, E-Mail-Adresse und Passwort. Du kannst auch zusätzliche Profilinformationen wie etwa einen Anzeigenamen oder eine Biografie eingeben, ein Profilbild oder ein Headerbild hochladen, dein Konto mit einem zweiten Sicherheitsfaktor schützen und einstellen, dass andere Nutzer:innen blockiert oder stummgeschaltet werden sollen. Der Benutzername, der Anzeigename, die Biografie, das Profilbild und das Headerbild werden dann immer öffentlich angezeigt.
+
+Die Datenverarbeitung im Rahmen der Registrierung erfolgt dabei gemäß Art. 6 Abs. 1 Buchst. b) DSGVO im erforderlichen Umfang, um dir die Registrierung und Konfiguration im Rahmen des Nutzungsverhältnisses zu ermöglichen.
+
+### 4.3 Datenverarbeitung bei der Nutzung deines Mastodon-Kontos
+
+- *Beiträge, Folge- und andere öffentliche Informationen:* Die Liste der Leute, denen du folgst, wird öffentlich gezeigt, das gleiche gilt für deine Folgenden (Follower). Sobald du eine Nachricht übermittelst, wird das Datum und die Uhrzeit gemeinsam mit der Information, welche Anwendung du dafür verwendet hast, gespeichert. Nachrichten können Medienanhänge enthalten, etwa Bilder und Videos. Öffentliche und ungelistete Beiträge sind öffentlich verfügbar. Sobald du einen Beitrag auf deinem Profil anpinnst, ist dieser ebenfalls öffentlich verfügbar. Deine Beiträge werden an deine Folgenden ausgeliefert, was in manchen Fällen bedeutet, dass sie an andere Server (andere Instanzen) ausgeliefert werden und dort Kopien gespeichert werden. Sobald du Beiträge löschst, wird dies ebenso an deine Follower ausgeliefert. Die Handlungen des Teilens und Favorisieren eines anderen Beitrages sind immer öffentlich.
+- *Direkte und „Nur Folgende“-Beiträge:* Alle Beiträge werden auf dem Server gespeichert und verarbeitet. „Nur Folgende“-Beiträge werden an deine Folgenden und an Benutzerinnen, die du erwähnst, ausgeliefert, direkte Beiträge („Direktnachrichten“) nur an in ihnen erwähnte Benutzerinnen. Direktnachrichten sind allerdings nicht Ende-zu-Ende verschlüsselt und daher auch durch uns sowie ggf. den Serverbetreibenden der Instanz der Empfänger:in einsehbar. Wir können nur sicherstellen, dass Unbefugte keinen Zugang zu den auf unserer Instanz gespeicherten Beiträge haben, jedoch könnten andere Server/Instanzen dabei scheitern. Deswegen ist es wichtig, die Instanz, zu denen deine Folgenden gehören, zu überprüfen. Du kannst auch eine Option in den Einstellungen umschalten, um neue Folgende manuell anzunehmen oder abzuweisen. Bitte beachte, dass die Betreibenden des Servers und jedes empfangenden Servers solche Nachrichten anschauen könnten und dass Empfänger:innen von diesen eine Bildschirmkopie erstellen könnten, sie kopieren oder anderweitig weiterverteilen könnten. Teile daher keine sensiblen Informationen über Mastodon.
+- *Internet Protocol-Adressen (IP-Adressen) und andere Metadaten:* Sobald du dich anmeldest, erfasst Mastodon sowohl die IP-Adresse, von der aus du dich anmeldest, als auch den Namen deiner Browseranwendung und ggf. weitere Geräteinformationen, die dein Browser übermittelt. In den Einstellungen kannst du alle angemeldeten Sitzungen (Sessions) überprüfen und widerrufen. Die letzte verwendete IP-Adresse und die letzten dabei vom Browser übermittelten Informationen speichern wir bis zu 3 Monate lang.
+
+Die Datenverarbeitung im Rahmen der Nutzung erfolgt dabei gemäß Art. 6 Abs. 1 Buchst. b) DSGVO im erforderlichen Umfang, um dir die Nutzung deines Mastodon-Kontos im Rahmen des Nutzungsverhältnisses zu ermöglichen.
+
+### 4.4 Nutzung von Cookies und weiteren Techniken zur Speicherung von Daten im Browser
+
+Mastodon verwendet Cookies, IndexedDB, LocalStorage und SessionStorage (d.h. kleine Textdateien und Datenbanken, die Informationen zu deinem Mastodon-Konto auf deinem Endgerät speichern), um Kern- und Komfortfunktionen bereitzustellen. Wenn du nicht bei kirche.social registriert bist, werden alle Daten, die mit diesen Techniken gespeichert wurden, gelöscht, wenn du deinen Browser beendest. Wenn du ein registriertes Konto hast, bleiben Daten gespeichert, damit  die Mastodon-Instanz deinen Browser wiederkennen und mit deinem Konto verknüpfen kann. Du kannst diese Daten aber jederzeit mit den entsprechenden Funktionen deines Browsers löschen – dann musst du dich beim nächsten Aufruf von kirche.social mit den Anmeldedaten für dein Benutzerkonto neu einloggen.
+
+### 4.5 Deine Rechte
+
+Du hast ein Recht auf
+
+- **Auskunft** darüber, welche Daten wir zu dir gespeichert haben, einschließlich einer Kopie dieser Daten (gemäß Art. 15 DSGVO),
+
+- **Berichtigung** falscher Daten (gemäß Art. 16 DSGVO),
+
+- **Löschung** („Vergessen werden“) oder **Einschränkung der Verarbeitung** (gemäß Art. 17-18 DSGVO),
+
+- **Widerspruch** (gemäß Art. 21 DSGVO),
+
+- Erhalt deiner **Daten in einem strukturierten, gängigen und maschinenlesbaren Format**, das du an einen anderen Mastodon-Server übermitteln kannst oder ein Recht darauf, dass wir deine Daten direkt an einen anderen Dienst übermitteln, soweit dies technisch möglich ist (gemäß Art. 20 DSGVO).
+
+Du kannst dein Mastodon-Konto löschen, wenn du eingeloggt bist und *„Profil bearbeiten“* anklickst. Ganz unten findest du dann den Abschnitt *„Konto löschen“.*
+
+Du kannst Kopien deiner Daten in strukturierten, gängigen und maschinenlesbaren Formaten alle 7 Tage herunterladen, wenn du eingeloggt bist und *„Profil bearbeiten“, „Importieren und Exportieren“* sowie *„Datenexport“* anklickst.
+
+Wende dich bitte per E-Mail an [mastodon@librechurch.org](mailto:mastodon@librechurch.org), wenn du eins der anderen Rechte wahrnehmen willst.
+
+#### Recht auf Beschwerde
+
+Wenn du der Meinung bist, dass wir deine Rechte verletzen, kannst du 
+dich bei der für LUKi e.v. zuständigen Datenschutz-Aufsichtsbehörde 
+beschweren. LUKi e.V. ist im Vereinsregister Augsburg, Bayern, 
+registriert. Zuständig ist deshalb:
+
+Bayerisches Landesamt für Datenschutzaufsicht (BayLDA)  
+Kontaktmöglichkeiten: [https://www.lda.bayern.de/de/kontakt.html](https://www.lda.bayern.de/de/kontakt.html)
+
 ## Hinweise zu diesem Dokument
 
 Wir verbessern kirche.social kontinuierlich. Wenn sich dabei Veränderungen bei der Datenverarbeitung oder Änderungsbedarf bei Nutzungsbedingungen und Verhaltenskodex ergeben, passen wir diese Hinweise an. Wir empfehlen dir deshalb, ab und zu wieder hier vorbeizuschauen. Bisher gab es folgende Versionen:
@@ -148,12 +219,5 @@ Wir empfehlen dir aber, genau zu prüfen, ob unsere Nutzungsbedingungen und unse
 ### Texte, die wir verwendet haben
 
 - Die Liste unerwünschter Verhaltensweisen basiert auf einer englischen Liste von [chaos.social](https://chaos.social/about/more) (freigegeben unter CC-BY-Lizenz) und deren Übersetzung ins Deutsche von [Alexander Kallenbach / mastodonten.de](https://mastodonten.de/about/more) (freigegeben unter CC-BY-SA-Lizenz).
+- Unsere Datenschutzerklärung basiert auf den Datenschutzhinweisen von [Malte Engeler / legal.social](https://legal.social/terms#Datenschutzhinweise) (freigegeben unter CC-BY-SA-3.0-Lizenz).
 - Die Grundsatzbestimmungen unseres Verhaltenskodex wurden vom [Code of Conduct von Fosstodon](https://hub.fosstodon.org/code-of-conduct) inspiriert.
-
-
-
-
-
-
-
-
