@@ -102,6 +102,7 @@ Folgende Verhaltensweisen sind bei uns unerwünscht:
 - Posten und Verbreiten von sexuellem Inhalt oder Gewaltdarstellungen
 - automatische Postings (Spam)
 - Bots, die ohne expliziten Anfrage von Nutzer_innen mit Nutzer_innen interagieren
+- Vortäuschen einer falschen Identität
 
 Diese Liste ist nicht abschließend. Wenn wir feststellen, dass andere Verhaltensweisen, die wir für unerwünscht halten, mehrfach vorkommen, ergänzen wir diese Liste. Wir können aber auch in Einzelfällen Verhaltensweisen, die in der Liste noch nicht genannt sind, für unerwünscht erklären.
 
