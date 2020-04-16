@@ -46,7 +46,9 @@ Fragen und Anliegen per E-Mail an unser Team wenden: [mastodon@librechurch.org.]
 
 Wir bieten kirche.social schwerpunktmäßig, aber nicht ausschließlich, als Plattform zum Austausch über kirchliche und religiöse Themen an. Du kannst Beiträge lesen, indem du unsere Mastodon-Instanz ohne Benutzerkonto aufrufst. Wenn du unsere Nutzungsbedingungen und unseren Verhaltenskodex anerkennst, kannst du **für dich persönlich, für deine Kirchengemeinde, deine Gruppe, deinen Verein, deinen Verband o.ä. ein Benutzerkonto anlegen** und Beiträge über kirche.social ins Mastodon-Netzwerk posten (und über das Mastodon-Netzwerk hinaus ins Fediverse, in dem dienstübergreifend Beiträge ausgetauscht werden).
 
-Wir können die Möglichkeit zum Anlegen von Benutzerkonten beschränken, wir können z.B. voraussetzen, dass du vor dem Anlegen eines Kontos per E-Mail einen Einladungslink anforderst, um automatische Registrierungen durch Spambots o.ä. zu verhindern.
+Das Anlegen von Benutzerkonten erfolgt moderiert. D.h. nach deiner Registrierung musst du von einer/einem unserer Moderator:innen freigeschaltet werden, um [kirche.social](https://kirche.social) nutzen zu können. Wir können die Möglichkeit zum Anlegen von Benutzerkonten weiter beschränken, z.B. dass du vor dem Anlegen eines Kontos per E-Mail einen Einladungslink anforderst. Dies hat den Zweck, die automatische Registrierungen durch Spambots o.ä. zu verhindern und die Einhaltung des Verhaltenskodexes zu gewährleisten.
+
+Die Freischaltung deines Benutzerkontos erfolgt so schnell wie möglich. Bitte habe Verständnis dafür, dass wir das in unserer Freizeit tun und keine Bearbeitungsfristen nennen können.
 
 Wenn du **jünger als 18 Jahre** bist, müssen deine **Eltern** deinem Nutzungsverhältnis für kirche.social **zustimmen**. Wir schicken dir gerne ein Formular, mit dem du die Zustimmung nachweisen kannst – oder Formulare für deine ganze Jugendgruppe. Wende dich dazu bitte per E-Mail an [mastodon@librechurch.org](mailto:mastodon@librechurch.org).
 
@@ -201,7 +203,7 @@ Kontaktmöglichkeiten: [https://www.lda.bayern.de/de/kontakt.html](https://www.l
 
 Wir verbessern kirche.social kontinuierlich. Wenn sich dabei Veränderungen bei der Datenverarbeitung oder Änderungsbedarf bei Nutzungsbedingungen und Verhaltenskodex ergeben, passen wir diese Hinweise an. Wir empfehlen dir deshalb, ab und zu wieder hier vorbeizuschauen. Bisher gab es folgende Versionen:
 
-- 2.0 – 13. April 2020
+- 2.0 – 16. April 2020
 - 1.2 – 2. März 2019
 
 Wenn du Verbesserungsvorschläge hast, freuen wir uns darüber. Wir freuen uns auch über Fragen, weil sie uns helfen, den Text zu verbessern und verständlicher zu machen. Schick Fragen oder Verbesserungsvorschläge bitte per E-Mail an [mastodon@librechurch.org](mailto:mastodon@librechurch.org) oder schreibe deine Vorschläge in unser [GitHub-Repository]([https://github.com/luki-ev/doc-legal/blob/master/kirche.social/terms.md). Über die Aufnahme in den offiziellen Text der Instanz entscheidet der Vorstand des LUKi e.V.
