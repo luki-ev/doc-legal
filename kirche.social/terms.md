@@ -26,7 +26,7 @@ Vertretungsberechtigter Vorstand:
 
 - Helmut Willems (Kassier)
 
-Vereinregister beim Amtsgericht Augsburg VR 51290
+Vereinsregister beim Amtsgericht Augsburg VR 51290
 
 Inhaltlich Verantwortlicher für unsere Vereins-Accounts [@luki](https://kirche.social/users/luki) und [@librechurch](https://kirche.social/users/librechurch) gemäß § 55 Abs. 2 RStV ist:
 
@@ -46,7 +46,7 @@ Fragen und Anliegen per E-Mail an unser Team wenden: [mastodon@librechurch.org.]
 
 Wir bieten kirche.social schwerpunktmäßig, aber nicht ausschließlich, als Plattform zum Austausch über kirchliche und religiöse Themen an. Du kannst Beiträge lesen, indem du unsere Mastodon-Instanz ohne Benutzerkonto aufrufst. Wenn du unsere Nutzungsbedingungen und unseren Verhaltenskodex anerkennst, kannst du **für dich persönlich, für deine Kirchengemeinde, deine Gruppe, deinen Verein, deinen Verband o.ä. ein Benutzerkonto anlegen** und Beiträge über kirche.social ins Mastodon-Netzwerk posten (und über das Mastodon-Netzwerk hinaus ins Fediverse, in dem dienstübergreifend Beiträge ausgetauscht werden).
 
-Das Anlegen von Benutzerkonten erfolgt moderiert. D.h. nach deiner Registrierung musst du von einer/einem unserer Moderator:innen freigeschaltet werden, um [kirche.social](https://kirche.social) nutzen zu können. Wir können die Möglichkeit zum Anlegen von Benutzerkonten weiter beschränken, z.B. dass du vor dem Anlegen eines Kontos per E-Mail einen Einladungslink anforderst. Dies hat den Zweck, die automatische Registrierungen durch Spambots o.ä. zu verhindern und die Einhaltung des Verhaltenskodexes zu gewährleisten.
+Das Anlegen von Benutzerkonten erfolgt moderiert. D.h. nach deiner Registrierung musst du von einer/einem unserer Moderator:innen freigeschaltet werden, um [kirche.social](https://kirche.social) nutzen zu können. Wir können die Möglichkeit zum Anlegen von Benutzerkonten weiter beschränken, z.B. dass du vor dem Anlegen eines Kontos per E-Mail einen Einladungslink anforderst. Dies hat den Zweck, automatische Registrierungen durch Spambots o.ä. zu verhindern und die Einhaltung des Verhaltenskodexes zu gewährleisten.
 
 Die Freischaltung deines Benutzerkontos erfolgt so schnell wie möglich. Bitte habe Verständnis dafür, dass wir das in unserer Freizeit tun und keine Bearbeitungsfristen nennen können.
 
@@ -56,7 +56,7 @@ Wenn du **jünger als 18 Jahre** bist, müssen deine **Eltern** deinem Nutzungsv
 
 Wir verkaufen keine Werbung und keine Daten unserer Nutzer:innen. Du 
 bist hier nicht das Produkt, sondern Teil einer Gemeinschaft. Der 
-Betrieb von kirche.social wird durch **ehrenamtliches Engangement** getragen und durch **Spenden** finanziert. Der Finanzierungsstand ist auf unserer Projektseite [librechurch.org](https://librechurch.org) einsehbar. Wir laden dich herzlich ein, zu spenden und [dem LUKi e.V. beizutreten](https://luki.org/verein-luki-e-v/mitgliedschaft/), um die Finanzierung nachhaltig zu sichern. Du musst aber nicht spenden. Die Nutzung von kirche.social erfolgt unentgeltlich.
+Betrieb von kirche.social wird durch **ehrenamtliches Engagement** getragen und durch **Spenden** finanziert. Der Finanzierungsstand ist auf unserer Projektseite [librechurch.org](https://librechurch.org) einsehbar. Wir laden dich herzlich ein, zu spenden und [dem LUKi e.V. beizutreten](https://luki.org/verein-luki-e-v/mitgliedschaft/), um die Finanzierung nachhaltig zu sichern. Du musst aber nicht spenden. Die Nutzung von kirche.social erfolgt unentgeltlich.
 
 Der gemeinschaftliche Betrieb durch einen Verein soll den nachhaltigen Bestand der Instanz und die Verfügbarkeit der Daten sichern. **Die Registrierung als Nutzer:in begründet jedoch keinen Rechtsanspruch auf die Aufrechterhaltung dieses Dienstes, auf die Verfügbarkeit von Daten und keine Garantie für die vollständige und dauerhafte Speicherung und Übermittlung der Daten.** Die Haftung für Schäden, die aus der Nutzung des Dienstes entstehen, wird bei Verschulden durch den LUKi e.V. und seine Ehrenamtlichen auf Vorsatz und grobe Fahrlässigkeit beschränkt.
 
@@ -79,7 +79,7 @@ Wenn problematisches Verhalten schnell gestoppt werden muss, können wir ohne Vo
 
 Du kannst durch Direktnachrichten mit einzelnen Nutzer:innen kommunizieren. Wir lesen diese Nachrichten nicht und geben sie nicht weiter, solange dies nicht aus technischen oder rechtlichen Gründen (z.B. für die Verfolgung von Straftaten durch Behörden) erforderlich ist. Nachrichten an andere Nutzer:innen dieser Instanz sind vermutlich besser geschützt als Nachrichten auf vielen kommerziellen Plattformen (bei Nachrichten an Nutzer:innen anderer Instanzen haben wir leider keinen Einfluss auf den Umgang der anderen Instanzbetreiber mit den Nachrichten). Aber Nachrichten auf Mastodon werden nur für den Transport zwischen Nutzer:innen und Mastodon-Instanz verschlüsselt.
 
-Vertrauliche Informationen solltest du so verschlüsseln, dass sie unter allen Umständen vertraulich bleiben und auch von Serverbetreibern nicht entschlüsselt werden können. Das ist bei Mastodon nicht möglich, deshalb darfst du **kirche.social nicht zur Übermittlung vertraulicher Informationen verwenden.** Wir empfehlen für vertrauliche Kommunikation unseren Messenger [snyod.im](https://web.synod.im), du kannst aber auch andere Messenger, z.B. [Signal](https://signal.org/), [Threema](https://threema.ch) oder [DeltaChat](https://delta.chat/de/) nutzen.
+Vertrauliche Informationen solltest du so verschlüsseln, dass sie unter allen Umständen vertraulich bleiben und auch von Serverbetreibern nicht entschlüsselt werden können. Das ist bei Mastodon nicht möglich, deshalb darfst du **kirche.social nicht zur Übermittlung vertraulicher Informationen verwenden.** Wir empfehlen für vertrauliche Kommunikation unseren Messenger [synod.im](https://web.synod.im), du kannst aber auch andere Messenger, z.B. [Signal](https://signal.org/), [Threema](https://threema.ch) oder [DeltaChat](https://delta.chat/de/) nutzen.
 
 <h2 id="verhaltenskodex">3. Verhaltenskodex</h2>
 
@@ -103,7 +103,7 @@ Folgende Verhaltensweisen sind bei uns unerwünscht:
 - Kontaktaufnahme zu Menschen, die deutlich gemacht haben, dass sie keinen Kontakt wollen; Dogpiling
 - Posten und Verbreiten von sexuellem Inhalt oder Gewaltdarstellungen
 - automatische Postings (Spam)
-- Bots, die ohne expliziten Anfrage von Nutzer_innen mit Nutzer_innen interagieren
+- Bots, die ohne explizite Anfrage von Nutzer:innen mit Nutzer:innen interagieren
 - Vortäuschen einer falschen Identität
 
 Diese Liste ist nicht abschließend. Wenn wir feststellen, dass andere Verhaltensweisen, die wir für unerwünscht halten, mehrfach vorkommen, ergänzen wir diese Liste. Wir können aber auch in Einzelfällen Verhaltensweisen, die in der Liste noch nicht genannt sind, für unerwünscht erklären.
