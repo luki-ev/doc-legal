@@ -16,7 +16,7 @@ Jakobstr.5
 66130 Saarbrücken  
 Deutschland
 
-E-Mail: [vorstand@luki.org](mailto:vorstand@luki.org)
+E-Mail: [&#x76;&#x6F;&#x72;&#x73;&#x74;&#x61;&#x6E;&#x64;&#x40;&#x6C;&#x75;&#x6B;&#x69;&#x2E;&#x6F;&#x72;&#x67;](mailto:&#x76;&#x6F;&#x72;&#x73;&#x74;&#x61;&#x6E;&#x64;&#x40;&#x6C;&#x75;&#x6B;&#x69;&#x2E;&#x6F;&#x72;&#x67;)
 
 Vereinregister beim Amtsgericht Augsburg VR 51290
 
@@ -25,7 +25,7 @@ unserer Vereins-Website luki.org](https://luki.org/impressum/).
 
 Weil wir ein kleiner Verein sind, haben wir keine(n) 
 Datenschutzbeauftragte(n) bestellt. Du kannst dich aber jederzeit mit 
-Fragen und Anliegen per E-Mail an unser Librechurch-Team wenden: [support@librechurch.org.](mailto:support@librechurch.org)
+Fragen und Anliegen per E-Mail an unser Librechurch-Team wenden: [&#x73;&#x75;&#x70;&#x70;&#x6F;&#x72;&#x74;&#x40;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x63;&#x68;&#x75;&#x72;&#x63;&#x68;&#x2E;&#x6F;&#x72;&#x67;.](mailto:&#x73;&#x75;&#x70;&#x70;&#x6F;&#x72;&#x74;&#x40;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x63;&#x68;&#x75;&#x72;&#x63;&#x68;&#x2E;&#x6F;&#x72;&#x67;)
 
 <h2 id="nutzungsbedingungen">2. Nutzungsbedingungen</h2>
 
@@ -81,7 +81,7 @@ Informationen zur Bildung über freie Software und Infos über Angebote, die kir
 
 ### 3.3 Meldung von unerwünschtem Verhalten
 
-Wenn du das Verhalten anderer Nutzer\_innen für unerwünscht hältst, kannst du uns per Mail an [support@librechurch.org](mailto:support@librechurch.org) benachrichtigen. Wir überprüfen alle Meldungen und ergreifen ggf. angemessene Maßnahmen. Wir schützen unter allen Umständen die Identität der meldenden Nutzer\_innen.
+Wenn du das Verhalten anderer Nutzer\_innen für unerwünscht hältst, kannst du uns per Mail an [&#x73;&#x75;&#x70;&#x70;&#x6F;&#x72;&#x74;&#x40;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x63;&#x68;&#x75;&#x72;&#x63;&#x68;&#x2E;&#x6F;&#x72;&#x67;](mailto:&#x73;&#x75;&#x70;&#x70;&#x6F;&#x72;&#x74;&#x40;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x63;&#x68;&#x75;&#x72;&#x63;&#x68;&#x2E;&#x6F;&#x72;&#x67;) benachrichtigen. Wir überprüfen alle Meldungen und ergreifen ggf. angemessene Maßnahmen. Wir schützen unter allen Umständen die Identität der meldenden Nutzer\_innen.
 
 <h2 id="datenschutz">4. Datenschutzerklärung</h2>
 
@@ -138,7 +138,7 @@ Du kannst dich bei mumble.luki.org registrieren (die Registrierung ist zur Nutzu
 
 - **Avatar** (optional)
 
-Wir speichern diese Daten langfristig, damit du dich immer wieder mit deinen Daten bei mumble.luki.org anmelden kannst. Wenn du uns per E-Mail an [support@librechurch.org](mailto:support@librechurch.org) um eine Löschung deiner Daten bittest und uns in einem Mumble-Gespräch bestätigst, dass diese E-Mail wirklich von dir kam, löschen wir deine Daten.
+Wir speichern diese Daten langfristig, damit du dich immer wieder mit deinen Daten bei mumble.luki.org anmelden kannst. Wenn du uns per E-Mail an [&#x73;&#x75;&#x70;&#x70;&#x6F;&#x72;&#x74;&#x40;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x63;&#x68;&#x75;&#x72;&#x63;&#x68;&#x2E;&#x6F;&#x72;&#x67;](mailto:&#x73;&#x75;&#x70;&#x70;&#x6F;&#x72;&#x74;&#x40;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x63;&#x68;&#x75;&#x72;&#x63;&#x68;&#x2E;&#x6F;&#x72;&#x67;) um eine Löschung deiner Daten bittest und uns in einem Mumble-Gespräch bestätigst, dass diese E-Mail wirklich von dir kam, löschen wir deine Daten.
 
 #### 4.2.4 Daten zu blockierten Nutzer\_innen
 
@@ -179,7 +179,7 @@ Du hast ein Recht auf
 - Erhalt deiner **Daten in einem strukturierten, gängigen und maschinenlesbaren Format**,  das du evtl. an einen anderen Mumble-Server übermitteln kannst oder ein Recht darauf, dass wir deine Daten direkt an einen anderen Dienst übermitteln, soweit dies technisch möglich ist (gemäß Art. 20 
   DSGVO).
 
-Wende dich bitte per E-Mail an [support@librechurch.org](mailto:support@librechurch.org), wenn du eins dieser Rechte wahrnehmen willst.
+Wende dich bitte per E-Mail an [&#x73;&#x75;&#x70;&#x70;&#x6F;&#x72;&#x74;&#x40;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x63;&#x68;&#x75;&#x72;&#x63;&#x68;&#x2E;&#x6F;&#x72;&#x67;](mailto:&#x73;&#x75;&#x70;&#x70;&#x6F;&#x72;&#x74;&#x40;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x63;&#x68;&#x75;&#x72;&#x63;&#x68;&#x2E;&#x6F;&#x72;&#x67;), wenn du eins dieser Rechte wahrnehmen willst.
 
 Wenn du dich zur Wahrnehmung von Rechten an uns wendest, müssen wir 
 sicherstellen, dass du die Person bist, der der entsprechende Mumble-Benutzername zugeordnet ist oder zugeordnet war. Wenn du dich als Mumble-Nutzer\_in registriert hast, vereinbaren wir per E-Mail mit dir einen Termin für ein Mumble-Gespräch, in dem du mit deinem Mumble-Benutzername gegenüber einem Serveradmistrator bestätigen kannst, dass die E-Mail zur Wahrnehmung deiner Rechte wirklich von dir kam. Wenn du dich nicht registriert hast, bräuchten wir zur Authentifizierung einen Nachweis darüber, dass du bei deiner letzten Verbindung mit unserem Mumble-Server die IP-Adresse hattest, die im Mumble-Logfile (7 Tage lang) gespeichert ist.
@@ -197,7 +197,7 @@ Wir verbessern mumble.luki.org kontinuierlich. Wenn sich dabei Veränderungen be
 
 - 1.0 – 29.03.2020: Initiale Version.
 
-Wenn du Verbesserungsvorschläge hast, freuen wir uns darüber. Wir freuen uns auch über Fragen, weil sie uns helfen, den Text zu verbessern und verständlicher zu machen. Schick Fragen oder Verbesserungsvorschläge bitte per E-Mail an [support@librechurch.org](mailto:support@librechurch.org).
+Wenn du Verbesserungsvorschläge hast, freuen wir uns darüber. Wir freuen uns auch über Fragen, weil sie uns helfen, den Text zu verbessern und verständlicher zu machen. Schick Fragen oder Verbesserungsvorschläge bitte per E-Mail an [&#x73;&#x75;&#x70;&#x70;&#x6F;&#x72;&#x74;&#x40;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x63;&#x68;&#x75;&#x72;&#x63;&#x68;&#x2E;&#x6F;&#x72;&#x67;](mailto:&#x73;&#x75;&#x70;&#x70;&#x6F;&#x72;&#x74;&#x40;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x63;&#x68;&#x75;&#x72;&#x63;&#x68;&#x2E;&#x6F;&#x72;&#x67;).
 
 ### Texte, die uns geholfen haben
 
