@@ -16,7 +16,7 @@ Jakobstr.5
 66130 Saarbrücken  
 Deutschland
 
-E-Mail: [&#x76;&#x6F;&#x72;&#x73;&#x74;&#x61;&#x6E;&#x64;&#x40;&#x6C;&#x75;&#x6B;&#x69;&#x2E;&#x6F;&#x72;&#x67;](mailto:&#x76;&#x6F;&#x72;&#x73;&#x74;&#x61;&#x6E;&#x64;&#x40;&#x6C;&#x75;&#x6B;&#x69;&#x2E;&#x6F;&#x72;&#x67;)
+E-Mail: <a href=mailto:&#x76;&#x6F;&#x72;&#x73;&#x74;&#x61;&#x6E;&#x64;&#x40;&#x6C;&#x75;&#x6B;&#x69;&#x2E;&#x6F;&#x72;&#x67;>&#x76;&#x6F;&#x72;&#x73;&#x74;&#x61;&#x6E;&#x64;&#x40;&#x6C;&#x75;&#x6B;&#x69;&#x2E;&#x6F;&#x72;&#x67;</a>
 
 Vertretungsberechtigter Vorstand:
 
