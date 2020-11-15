@@ -94,7 +94,7 @@ Rechte und Freiheiten der betroffenen Personen werden durch technische und organ
 
 - Unsere Administratoren installieren **Softwareupdates**, die Schwachstellen und Sicherheitslücken beheben, zeitnah nach ihrer Publikation durch die Softwareentwickler.
 
-- Die **Sicherheit der Übertragung** wird durch Transportverschlüsselung (TLS 1.2. bzw. TLS 1.3) sichergestellt. In 1:1-Konferenzen werden die Videokonferenzdaten verschlüsselt von einem Endgerät zum anderen Endgerät übertragen (über eine WebRTC-Verbindung mit [DTLS-SRTP](https://tools.ietf.org/html/rfc5763)). In Konferenzen mit drei oder mehr Teilnehmenden steht Ende-zu-Ende-Verschlüsselung (noch) nicht zur Verfügung.
+- Die **Sicherheit der Übertragung** wird durch Transportverschlüsselung (TLS 1.2. bzw. TLS 1.3) sichergestellt. Ende-zu-Ende-Verschlüsselung steht (noch) nicht zur Verfügung.
 
 - Die **Nutzerauthentifizierung** erfolgt durch Aufrufen des Konferenzlinks und ggf. durch Eingabe eines Passworts. Wir stellen dafür die technischen Voraussetzungen zur Verfügung, die Sicherheit dieser Authentifizierungsmerkmale bestimmst du aber selbst: Du kannst für den Konferenzlink eine komplexe Zeichenfolge wählen, die von Unbefugten kaum herausgefunden werden kann. Als Moderator:in kannst du zusätzlich ein Passwort für deine Konferenz festlegen.
 
