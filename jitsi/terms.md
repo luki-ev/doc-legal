@@ -1,14 +1,12 @@
-# Nutzungsbedingungen mit Verhaltenskodex und Auftragsverarbeitungsvereinbarung für jitsi.luki.org
+# Nutzungsbedingungen und Vereinbarung zur Auftragsverarbeitung für jitsi.luki.org
 
-jitsi.luki.org ist eine datensparsame Videokonferenzlösung. Wir vom LUKi e.V. stellen dir unsere Serverarchitektur für Videokonferenzen mit Telefoneinwahl (im Folgenden „Jitsi-Server“ bzw. „Server“ genannt) uneigennützig zur Verfügung. Du kannst unseren Server nutzen, wenn du unsere Nutzungsbedingungen und unseren Verhaltenskodex anerkennst. Wenn du andere Personen zu einer Videokonferenz einlädst, gilt für die Verarbeitung von Daten dieser Personen die Vereinbarung zur Auftragsverarbeitung.
+jitsi.luki.org ist eine datensparsame Videokonferenzlösung. Wir vom [LUKi e.V.](https://luki.org) stellen dir unsere Serverarchitektur für Videokonferenzen mit Telefoneinwahl (im Folgenden „Jitsi-Server“ bzw. „Server“ genannt) uneigennützig zur Verfügung. Du kannst unseren Server nutzen, wenn du unsere Nutzungsbedingungen anerkennst. Wenn du andere Personen zu einer Videokonferenz einlädst, gilt für die Verarbeitung von Daten dieser Personen die Vereinbarung zur Auftragsverarbeitung.
 
 1. [Nutzungsbedingungen](#nutzungsbedingungen)
 
-2. [Verhaltenskodex](#verhaltenskodex)
+2. [Vereinbarung zur Auftragsverarbeitung](#avv)
 
-3. [Vereinbarung zur Auftragsverarbeitung](#avv)
-
-4. [Hinweise zu diesem Dokument](#hinweise)
+3. [Hinweise zu diesem Dokument](#hinweise)
 
 <h2 id="nutzungsbedingungen">1. Nutzungsbedingungen</h2>
 
@@ -24,66 +22,31 @@ Wenn du **jünger als 18 Jahre** bist, müssen deine **Eltern** deinem Nutzungsv
 
 ### 1.3 Finanzierung und Haftung
 
-Wir verkaufen keine Werbung und keine Daten unserer Nutzer:innen. Du bist hier nicht das Produkt, sondern Teil einer Gemeinschaft. Der Betrieb von jitsi.luki.org wird durch ehrenamtliches Engangement getragen und durch Spenden finanziert. Wir laden dich herzlich ein, zu [spenden](https://www.betterplace.org/de/projects/77247-librechurch-freie-softwarelosungen-fur-die-digitale-kirche-der-zukunft) und [dem LUKi e.V. beizutreten,](https://luki.org/verein-luki-e-v/mitgliedschaft/) um die Finanzierung nachhaltig zu sichern. Du musst aber nicht spenden. Die Nutzung von jitsi.luki.org erfolgt unentgeltlich.
+Wir verkaufen keine Werbung und keine Daten unserer Nutzer:innen. Du bist hier nicht das Produkt, sondern Teil einer Gemeinschaft. Der Betrieb von jitsi.luki.org wird durch ehrenamtliches Engagement getragen und durch Spenden finanziert. Wir laden dich herzlich ein, zu [spenden](https://www.betterplace.org/de/projects/77247-librechurch-freie-softwarelosungen-fur-die-digitale-kirche-der-zukunft) und [dem LUKi e.V. beizutreten,](https://luki.org/verein-luki-e-v/mitgliedschaft/) um die Finanzierung nachhaltig zu sichern. Du musst aber nicht spenden. Die Nutzung von jitsi.luki.org erfolgt unentgeltlich.
 
-Der gemeinschaftliche Betrieb durch einen Verein soll den nachhaltigen Bestand des Systems sichern und stabile Videokonferenzen ermöglichen. **Weil wir von Spenden und Engangement abhängig sind, können wir aber keine Garantie für die Verfügbarkeit dieses Dienstes geben.** Die Haftung für Schäden, die aus der Nutzung des Dienstes entstehen, wird bei Verschulden durch den LUKi e.V. und seine Ehrenamtlichen auf Vorsatz und grobe Fahrlässigkeit beschränkt.
+Der gemeinschaftliche Betrieb durch einen Verein soll den nachhaltigen Bestand des Systems sichern und stabile Videokonferenzen ermöglichen. **Weil wir von Spenden und Engagement abhängig sind, können wir aber keine Garantie für die Verfügbarkeit dieses Dienstes geben.** Die Haftung für Schäden, die aus der Nutzung des Dienstes entstehen, wird bei Verschulden durch den LUKi e.V. und seine Ehrenamtlichen auf Vorsatz und grobe Fahrlässigkeit beschränkt.
 
 ### 1.4 Einschränkungen der Nutzung
 
-Wir überwachen dich und deine Videokonferenzen nicht. Gemäß §§ 8-10 Telemediengesetz sind wir nicht für fremde Informationen verantwortlich, solange wir keine Kenntnis davon haben. Wir werden aber unverzüglich tätig, sobald wir Kenntnis von problematischen Informationen erlangen. **Wir behalten uns vor, Nutzungsmöglichkeiten einzuschränken und / oder Nutzer:innen zu blockieren,** wenn Nutzer:innen
-
-- gegen diese Bedingungen verstoßen,
-- gegen Gesetze der Bundesrepublik Deutschland verstoßen oder
-- unseren Verhaltenskodex nicht beachten.
+Wir überwachen dich und deine Videokonferenzen nicht. Gemäß §§ 8-10 Telemediengesetz sind wir nicht für fremde Informationen verantwortlich, solange wir keine Kenntnis davon haben. Wir werden aber unverzüglich tätig, sobald wir Kenntnis von problematischen Informationen erlangen. **Wir behalten uns vor, Nutzungsmöglichkeiten einzuschränken und / oder Nutzer:innen zu blockieren,** wenn Nutzer:innen gegen diese Bedingungen oder gegen Gesetze der Bundesrepublik Deutschland verstoßen.
 
 Wenn problematisches Verhalten schnell gestoppt werden muss, können wir ohne Vorankündigung Maßnahmen ergreifen.
 
-**Bitte achte bei deiner Nutzung von jitsi.luki.org selbst auf die Einhaltung dieser Bedingungen, auf den Verhaltenskodex und auf Gesetze,** insbesondere auf Urheberrechte für Texte, Musik, Audio- und Videoaufnahmen, auf Persönlichkeitsrechte sowie auf Gesetze zum Jugendschutz und Datenschutz.
+**Bitte achte bei deiner Nutzung von jitsi.luki.org selbst auf die Einhaltung dieser Bedingungen und auf Gesetze,** insbesondere auf Urheberrechte für Texte, Musik, Audio- und Videoaufnahmen, auf Persönlichkeitsrechte sowie auf Gesetze zum Jugendschutz und Datenschutz.
 
-<h2 id="verhaltenskodex">2. Verhaltenskodex</h2>
-
-### 2.1 Grundsätzliches
-
-Wir, die Betreiber von jitsi.luki.org, sind Christinnen und Christen. Uns ist eine Umgebung und Atmosphäre wichtig, die alle Kommunikationspartner:innen als einladend, inklusiv und respektvoll wahrnehmen können. Wir erwarten von allen Personen, die über unseren Jitsi-Server kommunizieren, dass sie zu einer solchen Umgebung und Atmosphäre beitragen.
-
-Wir legen besonderen Wert darauf, dass alle Nutzer:innen bei jitsi.luki.org Kommunikation gewalt- und unterdrückungsfrei erfahren, unabhängig von Religion, Bekenntnis, Kenntnis, Erfahrung, Geschlecht(-sidentität und -ausdruck), sexueller Orientierung, Einschränkung und Behinderung, persönlicher Erscheinung, Körpergröße, Ethnie, Alter oder Nationalität.
-
-Wir definieren Gewalt oder Unterdrückung als jede Form von Sprache oder Handlung, die gesellschaftliche (Vor-)Herrschaft über andere in irgendeiner Form befürwortet, unterstützt, stärkt oder damit sympathisiert.
-
-### 2.2 Unerwünschte Verhaltensweisen
-
-Folgende Verhaltensweisen sind bei uns unerwünscht:
-
-- Belästigung, Stalking, Doxxing
-- Rassismus, Sexismus, Beschimpfungen oder deren Befürwortung
-- Diskriminierung von Geschlechtern und Minderheiten
-- Gewalttätige nationalistische Propaganda, Nazi-Symbolismus oder Förderung der Ideologie des Nationalsozialismus
-- Kontaktaufnahme zu Menschen, die deutlich gemacht haben, dass sie keinen Kontakt wollen; Dogpiling
-- Verbreiten von sexuellem Inhalt oder Gewaltdarstellungen
-- automatische Postings (Spam)
-- Bots, die ohne expliziten Anfrage von Nutzer:innen mit Nutzer:innen interagieren
-
-Diese Liste ist nicht abschließend. Wenn wir feststellen, dass andere Verhaltensweisen, die wir für unerwünscht halten, mehrfach vorkommen, ergänzen wir diese Liste. Wir können aber auch in Einzelfällen Verhaltensweisen, die in der Liste noch nicht genannt sind, für unerwünscht erklären.
-
-Informationen zur Bildung über freie Software und Infos über Angebote, die kirchlichen, diakonischen, mildtätigen oder gemeinnützigen Zwecken dienen, sind bei jitsi.luki.org willkommen. Werbung für andere Produkte, Angebote oder Zwecke ist bei uns unerwünscht.
-
-### 2.3 Meldung von unerwünschtem Verhalten
-
-Wenn du das Verhalten anderer Nutzer:innen für unerwünscht hältst, kannst du uns per Mail an <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#x73;&#x75;&#112;&#112;&#x6f;&#114;&#116;&#64;&#108;&#x69;&#98;&#114;&#x65;&#x63;&#104;&#x75;&#114;&#x63;&#104;&#46;&#x6f;&#114;&#x67;" class="email">&#x73;&#x75;&#112;&#112;&#x6f;&#114;&#116;&#64;&#108;&#x69;&#98;&#114;&#x65;&#x63;&#104;&#x75;&#114;&#x63;&#104;&#46;&#x6f;&#114;&#x67;</a> benachrichtigen. Wir überprüfen alle Meldungen und ergreifen ggf. angemessene Maßnahmen. Wir schützen unter allen Umständen die Identität der meldenden Nutzer:innen.
-
-<h2 id="avv">3. Vereinbarung zur Auftragsverarbeitung</h2>
+<h2 id="avv">2. Vereinbarung zur Auftragsverarbeitung</h2>
 
 Wenn du zu einer Videokonferenz Personen einlädst, die nicht zu deinem engsten Familien- und Freundeskreis gehören, bist du gegenüber diesen Personen Verantwortlicher im Sinne des Art. 4 Nr. 7 DSGVO oder (wenn du für eine kirchliche Stelle arbeitest) im Sinne des kirchlichen Datenschutzrechts. Wenn du dabei nicht als Einzelperson handelst, sondern als haupt- oder ehrenamtliche:r Mitarbeiter:in einer Organisation oder kirchlichen Stelle, ist idR. deine Organisation oder kirchliche Stelle verantwortlich. 
 
-Der LUKi e.V. verarbeitet Daten deiner Konferenzteilnehmer:innen als Auftragsverarbeiter im Sinne des Art. 4 Nr. 8 DSGVO. Du (bzw. deine Organisation oder kirchliche Stelle) bist Auftraggeber. Das Auftragsverarbeitungsverhältnis wird im Folgenden gemäß Art. 28 DSGVO näher geregelt. Damit diese Regelung möglichst leicht verständlich ist, sprechen wir dich als Auftraggeber darin mit „du“ an. Wenn deine Organisation oder kirchliche Stelle als Auftraggeberin für die Datenverarbeitung verantwortlich ist, ist mit dem „du“ deine Organisation oder kirchliche Stelle gemeint. „Wir“ bezeichnet den LUKi e.V. als Auftragnehmer.
+Der LUKi e.V. verarbeitet Daten deiner Konferenzteilnehmer:innen als Auftragsverarbeiter im Sinne des Art. 4 Nr. 8 DSGVO. Du (bzw. deine Organisation oder kirchliche Stelle) bist Auftraggeber. Das Auftragsverarbeitungsverhältnis wird im Folgenden gemäß Art. 28 DSGVO näher geregelt. Damit diese Regelung möglichst leicht verständlich ist, sprechen wir dich als Auftraggeber darin mit „du“ an. Wenn deine Organisation oder kirchliche Stelle als Auftraggeberin für die Datenverarbeitung verantwortlich ist, ist mit dem „du“ deine Organisation oder kirchliche Stelle gemeint. „Wir“ bezeichnet den [LUKi e.V.](https://luki.org) als Auftragnehmer.
 
-### 3.1 Konkretisierung des Auftrags
+### 2.1 Konkretisierung des Auftrags
 
-#### 3.1.1 Gegenstand und Dauer des Auftrags
+#### 2.1.1 Gegenstand und Dauer des Auftrags
 
 Gegenstand des Auftrags sind die technischen Vorgänge zur Durchführung einer Videokonferenz auf jitsi.luki.org, zu der du andere Personen einlädst. Die Dauer des Auftrags entspricht der Dauer der jeweiligen Konferenz. Der Auftrag endet, wenn alle Teilnehmer:innen die Konferenz verlassen haben und alle damit zusammenhängenden Verbindungen zum Jitsi-Server beendet sind.
 
-#### 3.1.2 Art der verarbeiteten Daten
+#### 2.1.2 Art der verarbeiteten Daten
 
 Gegenstand der Verarbeitung personenbezogener Daten sind folgende Datenkategorien:
 
@@ -103,17 +66,17 @@ Gegenstand der Verarbeitung personenbezogener Daten sind folgende Datenkategorie
   - Namen (für Videokonferenz optional; für Chat erforderlich, Pseudonyme möglich)
   - E-Mail-Adressen (optional)
 
-#### 3.1.3 Kreis der betroffenen Personen
+#### 2.1.3 Kreis der betroffenen Personen
 
 Die betroffenen Personen sind Teilnehmer:innen deiner Videokonferenz.
 
-#### 3.1.4 Zweck, Mittel und Orte der Verarbeitung
+#### 2.1.4 Zweck, Mittel und Orte der Verarbeitung
 
 Wir verarbeiten die oben genannten Datenkategorien, um dich bei der Nutzung der frei zugänglichen Software [Jitsi Meet](https://github.com/jitsi/jitsi-meet) und damit verbundener Programme uneigennützig zu unterstützen. Unsere Jitsi-Installation und -Konfiguration sowie die damit verbundenen Programme entsprechen der Serverarchitektur, die in der [LibreChurch-Dokumentation](https://doc.librechurch.org/Wiki.jsp?page=AdminJitsi) näher beschrieben wird. Wir verarbeiten die Daten nicht zu anderen Zwecken und nicht mit anderen Mitteln.
 
 Unsere gesamte Serverarchitektur befindet sich in Deutschland. Eine Verlagerung in ein Drittland außerhalb der Europäischen Union und des Europäischen Wirtschaftsraums ist nicht geplant, sie wäre nur mit deiner Zustimmung und unter Beachtung der besonderen Voraussetzungen der Art. 44ff. DSGVO zulässig.
 
-### 3.2 Beauftragung von Dienstleistern
+### 2.2 Beauftragung von Dienstleistern
 
 Wir betreiben die Jitsi-Software auf einem Server, der von der [Hetzner Online GmbH](https://www.hetzner.de/) bereitgestellt wird. Durch einen Auftragsverarbeitungsvertrag stellen wir sicher, dass die Hetzner Online GmbH bei der Verarbeitung von Daten auf diesem Server dieselben Pflichten übernimmt, die uns gemäß dieser Vereinbarung obliegen. Wenn du jitsi.luki.org nutzt, stimmst du diesem Unterauftragsverhältnis zu.
 
@@ -121,11 +84,7 @@ Sonstige Unterauftragsverhältnisse bestehen nicht und sind auch nicht geplant. 
 
 Für die Telefoneinwahl nutzen wir Dienstleistungen der [sipgate GmbH](https://www.sipgatebasic.de/). Weil hier Telekommunikationsleistungen im Sinne des Telekommunikationsgesetz (TKG) erbracht werden, gilt dies nicht als Auftragsverarbeitungsverhältnis, sondern als Inanspruchnahme einer fremden Fachleistung. Durch das Fernmeldegeheimnis und weitere Vorschriften des TKG ist aber auch hier sichergestellt, dass personenbezogene Daten angemessen geschützt werden.
 
-### 3.3 Verknüpfung mit YouTube
-
-Du kannst deine Jitsi-Konferenz mit YouTube verknüpfen, um Video- und Audioaufnahmen zu streamen. Wenn du die YouTube-Verknüpfungen aktivierst (aber nur dann) werden Daten an Google Ireland Limited übertragen und gemäß der [Google-Datenschutzerklärung](https://www.google.de/intl/de/policies/privacy/) verarbeitet. Für die Datenverarbeitung im Stream bist du dann gemeinsam mit Google Ireland Limited verantowrtlich. Standardmäßig ist die YouTube-Verknüpfung deaktivert, du kannst sie als Moderator:in aktivieren. Vor der Aktivierung musst du klären, auf welcher Rechtsgrundlage du Video- und Audioaufnahmen aus deiner Konferenz an Google Ireland Limited übermitteln kannst, und die Teilnehmer:innen deiner Konferenz entsprechend informieren.
-
-### 3.4 Technische und organisatorische Maßnahmen
+### 2.3 Technische und organisatorische Maßnahmen
 
 Rechte und Freiheiten der betroffenen Personen werden durch technische und organisatorische Maßnahmen gemäß Art. 28 Abs. 3 Buchst. c DSGVO in Verbindung mit § 32 DSGVO geschützt. Dabei werden Anforderungen aus der [Orientierungshilfe Videokonferenzsysteme der Datenschutzkonferenz](https://www.tlfdi.de/mam/tlfdi/gesetze/orientierungshilfen/oh-videokonferenzsysteme_final.pdf) berücksichtigt. Sie werden wie folgt umgesetzt:
 
@@ -135,11 +94,11 @@ Rechte und Freiheiten der betroffenen Personen werden durch technische und organ
 
 - Unsere Administratoren installieren **Softwareupdates**, die Schwachstellen und Sicherheitslücken beheben, zeitnah nach ihrer Publikation durch die Softwareentwickler.
 
-- Die **Sicherheit der Übertragung** wird durch Transportverschlüsselung (TLS 1.3) sichergestellt. Ende-zu-Ende-Verschlüsselung steht (noch) nicht zur Verfügung.
+- Die **Sicherheit der Übertragung** wird durch Transportverschlüsselung (TLS 1.2. bzw. TLS 1.3) sichergestellt. Ende-zu-Ende-Verschlüsselung steht (noch) nicht zur Verfügung.
 
 - Die **Nutzerauthentifizierung** erfolgt durch Aufrufen des Konferenzlinks und ggf. durch Eingabe eines Passworts. Wir stellen dafür die technischen Voraussetzungen zur Verfügung, die Sicherheit dieser Authentifizierungsmerkmale bestimmst du aber selbst: Du kannst für den Konferenzlink eine komplexe Zeichenfolge wählen, die von Unbefugten kaum herausgefunden werden kann. Als Moderator:in kannst du zusätzlich ein Passwort für deine Konferenz festlegen.
 
-- Zur **Rollentrennung** erhält die erste Person in einem Konferenzraum Moderatorenrechte, die z.B. das Stummschalten anderer Teilnehmer:innen ermöglichen. Weitere Personen haben nur einfache Teilnehmerrechte. Wenn ein:e Moderator:in die Konferenz verlässt, werden die Moderatorenrechte automatisch an eine:n verbleibende:n Teilnehmer:in übergeben.
+- Zur **Rollentrennung** erhält die erste Person in einem Konferenzraum Moderatorenrechte, die z.B. das Stummschalten anderer Teilnehmer:innen ermöglichen. Weitere Personen haben zunächst einfache Teilnehmerrechte, der/die Moderator:in kann sie aber zu Moderator:innen machen. Wenn alle Moderator:innen die Konferenz verlassen, werden die Moderatorenrechte automatisch an eine:n verbleibende:n Teilnehmer:in übergeben.
 
 - **Datensparsamkeit** gewährleisten wir, indem das Starten einer Konferenz und die Teilnahme an einer Konferenz ohne Benutzeraccount oder die Angabe einer E-Mail-Adresse möglich ist. Kameras, Mikros und die Funktion zum Teilen des Bildschirms sind standardmäßig ausgeschaltet, wenn Teilnehmende die Konferenz betreten. Audio- und Videodaten werden erst erhoben, wenn Teilnehmende ihr Mikro bzw. ihre Kamera einschalten. Die Daten, die dann verarbeitet werden und die erforderlichen Internetzugriffsdaten werden nur für eine Videokonferenz verarbeitet und spätestens am Konferenzende vom Server gelöscht.
 
@@ -149,7 +108,7 @@ Rechte und Freiheiten der betroffenen Personen werden durch technische und organ
 
 Du musst vorab prüfen, ob diese Maßnahmen dem Schutzbedarf deiner geplanten Videokonferenz genügen. Nimm bitte vor deiner Konferenz Kontakt zum <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#x73;&#x75;&#112;&#112;&#x6f;&#114;&#116;&#64;&#108;&#x69;&#98;&#114;&#x65;&#x63;&#104;&#x75;&#114;&#x63;&#104;&#46;&#x6f;&#114;&#x67;" class="email">&#76;&#x69;&#98;&#114;&#x65;&#x43;&#104;&#x75;&#114;&#x63;&#104;&#x2d;&#84;&#x65;&#x61;&#x6d;</a> auf, wenn für deine Konferenz weitergehende Maßnahmen notwendig wären. Wenn du eine Konferenz auf jitsi.luki.org ohne vorherige Kontaktaufnahme zum LibreChurch-Team startest, gehen wir davon aus, dass die oben genannten Maßnahmen ausreichen. Sie werden dann Grundlage deines Auftrags an uns.
 
-### 3.5 Datenschutzrechtliche Pflichten des LUKi e.V.
+### 2.4 Datenschutzrechtliche Pflichten des LUKi e.V.
 
 #### Benennung von Ansprechpartnern
 
@@ -169,14 +128,14 @@ Wenn eine betroffene Person sich mit einem Antrag auf Auskunft, Berichtigung, Ei
 
 Wir benachrichtigen dich, wenn uns Datenschutzverletzungen bekannt werden, wenn der Verdacht besteht, dass bei der Nutzung von jitsi.luki.org Datenschutzverletzungen entstanden sein könnten, wenn Datenschutzaufsichtsbehörden Kontrollmaßnahmen durchführen oder wenn Strafverfolgungsbehörden auf Daten von jitsi.luki.org zugreifen (sofern eine Benachrichtung über Zugriffe von Behörden gesetzlich zulässig ist). Weil der Start einer Videokonferenz bei jitsi.luki.org ohne Angabe einer E-Mail-Adresse o.ä. möglich ist, können wir dich allerdings nicht per E-Mail o.ä. benachrichtigen. Wir informieren auf unserem Mastodon-Account [@librechurch@kirche.social](https://kirche.social/@librechurch) über Datenschutzverletzungen, Kontrollmaßnahmen und Behördenzugriffe bei jitsi.luki.org und anderen LibreChurch-Diensten. Du kannst uns bei Mastodon folgen und wirst dann unverzüglich benachrichtigt.
 
-### 3.6 Deine Weisungsbefugnis
+### 2.5 Deine Weisungsbefugnis
 Mit dem Start einer Konferenz durch Anklicken von „Los“ auf jitsi.luki.org oder durch Aufruf einer Konferenz-Adresse erteilst du uns die Weisung personenbezogene Daten für eine Videokonferenz so zu verarbeiten, wie es sich aus Standardabläufen von Jitsi Meet und der in Verbindung damit eingesetzten Software ergibt. Die Software, die wir in Verbindung mit Jitsi Meet einsetzen, haben wir in der [LibreChurch-Dokumentation](https://doc.librechurch.org/Wiki.jsp?page=AdminJitsi) beschrieben. Spätestens am Ende der Konferenz werden alle personenbezogenen Daten, die während der Konferenz erhoben wurden, gelöscht. Mit dem Start der Konferenz gilt auch die Weisung zu dieser Löschung als erteilt.
 
 Jede andere Verarbeitung von personenbezogenen Daten, die für deine Konferenz erhoben werden, ist nur zulässig, wenn du dafür einen ausdrücklichen Auftrag in Textform (z.B. per E-Mail) an das <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#x73;&#x75;&#112;&#112;&#x6f;&#114;&#116;&#64;&#108;&#x69;&#98;&#114;&#x65;&#x63;&#104;&#x75;&#114;&#x63;&#104;&#46;&#x6f;&#114;&#x67;" class="email">&#76;&#x69;&#98;&#114;&#x65;&#x43;&#104;&#x75;&#114;&#x63;&#104;&#x2d;&#84;&#x65;&#x61;&#x6d;</a> schickst. Ohne besonderen Auftrag verarbeiten wir die Daten nur gemäß den oben genannten Standardabläufen.
 
 Wenn wir der Auffassung sind, dass eine Weisung, die du uns erteilst, gegen die DSGVO oder andere Datenschutzvorschriften verstößt, informieren wir dich unverzüglich und setzen die Durchführung der entsprechenden Weisung solange aus, bis du die Weisung bestätigst oder änderst.
 
-### 3.7 Kontrollrechte
+### 2.6 Kontrollrechte
 
 Wir erteilen dir auf Anforderung die erforderlichen Auskünfte, um die Einhaltung unserer Pflichten und die Umsetzung der technischen und organisatorischen Maßnahmen nachzuweisen. Du kannst dich auch durch Inspektionen von der Einhaltung dieser Vereinbarung überzeugen oder Prüfer beauftragten, die entsprechende Inspektionen für dich durchführen. Vor-Ort-Prüfungen müssen verhältnismäßig sein, sie sind in der Regel rechtzeitig beim <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#x73;&#x75;&#112;&#112;&#x6f;&#114;&#116;&#64;&#108;&#x69;&#98;&#114;&#x65;&#x63;&#104;&#x75;&#114;&#x63;&#104;&#46;&#x6f;&#114;&#x67;" class="email">&#76;&#x69;&#98;&#114;&#x65;&#x43;&#104;&#x75;&#114;&#x63;&#104;&#x2d;&#84;&#x65;&#x61;&#x6d;</a> anzumelden. Wir unterstützen dich dann gerne dabei.
 
@@ -189,22 +148,17 @@ Für die Ermöglichung von Inspektionen können wir eine Aufwandsentschädigung 
 Wenn du eine Videokonferenz als Mitarbeiter:in einer Kirchengemeinde oder einer anderen Stelle durchführst, die kirchlichem Datenschutzrecht unterliegt, das eine Unterwerfung von Auftragsverarbeitern unter kirchliche Datenschutzaufsicht fordert, unterwerfen wir uns gemäß der entsprechenden kirchlichen Datenschutznorm der zuständigen kirchlichen Datenschutzaufsicht. Die Unterwerfung erstreckt sich auf die Aufgaben und Befugnisse der kirchlichen Datenschutzaufsicht gemäß ihrer kirchlichen Rechtsgrundlage.
 
 
-### 3.8 Löschung von Daten am Konferenzende
+### 2.7 Löschung von Daten am Konferenzende
 Wenn alle Teilnehmer:innen deine Konferenz verlassen haben und alle damit zusammenhängenden Verbindungen zum Jitsi-Server beendet sind, werden alle personenbezogenen Daten, die während deiner Konferenz von uns verarbeitet wurden, gelöscht.
 
 
-<h2 id="hinweise">Hinweise zu diesem Dokument</h2>
+<h2 id="hinweise">3. Hinweise zu diesem Dokument</h2>
 
-Wir verbessern jitsi.luki.org kontinuierlich. Wenn dadurch Änderungsbedarf bei Nutzungsbedingungen, Verhaltenskodex und Auftragsverarbeitungsvereinbarung entsteht, passen wir dieses Dokument an.  Du kannst unserem Mastodon-Account <https://kirche.social/@librechurch> folgen, dann wirst du über neue Versionen informiert. Bisher gab es folgende Versionen:
+Wir verbessern jitsi.luki.org kontinuierlich. Wenn dadurch Änderungsbedarf bei Nutzungsbedingungen und Auftragsverarbeitungsvereinbarung entsteht, passen wir dieses Dokument an.  Du kannst unserem Mastodon-Account <https://kirche.social/@librechurch> folgen, dann wirst du über neue Versionen informiert. Bisher gab es folgende Versionen:
 
-- 1.0 – 9.11.2020: Initiale Version.
+- 1.0 – 15.11.2020: Initiale Version.
 
 Wenn du Verbesserungsvorschläge hast, freuen wir uns darüber. Wir freuen uns auch über Fragen, weil sie uns helfen, den Text zu verbessern und verständlicher zu machen. Schick Fragen oder Verbesserungsvorschläge bitte per E-Mail an <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#x73;&#x75;&#112;&#112;&#x6f;&#114;&#116;&#64;&#108;&#x69;&#98;&#114;&#x65;&#x63;&#104;&#x75;&#114;&#x63;&#104;&#46;&#x6f;&#114;&#x67;" class="email">&#x73;&#x75;&#112;&#112;&#x6f;&#114;&#116;&#64;&#108;&#x69;&#98;&#114;&#x65;&#x63;&#104;&#x75;&#114;&#x63;&#104;&#46;&#x6f;&#114;&#x67;</a>.
-
-### Texte, die uns geholfen haben
-
-- Die Grundsatzbestimmungen unseres Verhaltenskodex basieren auf dem [Code of Conduct von Fosstodon](https://hub.fosstodon.org/code-of-conduct).
-- Die Liste unerwünschter Verhaltensweisen basiert auf dem [Verhaltenskodex von social.saarland](https://social.saarland/about/more).
 
 ### Nutzung des Textes unter CC-Lizenz
 
@@ -214,3 +168,5 @@ Wenn du selbst einen Jitsi-Server betreibst, kannst du unseren Text unter der Cr
 - Abgeleitete Werke müssen ebenfalls unter die CC BY-SA oder eine vergleichbare Lizenz gestellt werden.
 
 Weitere Informationen und Verweise zum vollständigen Text der Lizenz findest du bei <https://creativecommons.org/licenses/by-sa/3.0/de/>.
+
+Wir empfehlen dir aber, genau zu prüfen, ob unsere Nutzungsbedingungen und unsere Vereinbarung zur Auftragsverarbeitung wirklich für deinen Jitsi-Server passen. Die Freigabe dieses Textes zur Nutzung und Anpassung ist keine Rechtsberatung. Frag im Zweifelsfall einen Datenschutzbeauftragten oder einen Rechtsanwalt.

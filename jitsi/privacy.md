@@ -7,19 +7,18 @@ Wir verkaufen keine Werbung und keine Daten unserer Nutzer:innen. Unser Jitsi-Se
 Wir sorgen mit folgenden Einstellungen dafür, dass Videokonferenzen bei jitsi.luki.org datensparsamer ablaufen als in der Standardkonfiguration von Jitsi Meet:
 
 - Logs sind deaktiviert, d.h. IP-Adressen und Telefonnummern werden nicht gespeichert.
-- Verbindungen zu fremden Servern (z.B. gravatar.com) werden blockiert.
+- Funktionen, die Daten an andere Dienste (z.B. youtube.com, gravatar.com) übertragen, sind deaktiviert.
 - Wir verwenden einen eigenen STUN/Turn-Server, der keine Daten an Dritte preisgibt.
 - Du kontrollierst dein Mikro und deine Kamera. Wenn du ins Meeting kommst, sind Mikro und Kamera deaktiviert.
-
-Bitte beachte: Standardmäßig bleiben alle Daten bei uns, aber als Moderator:in einer Konferenz kannst du Jitsi mit YouTube verknüpfen. Wenn eine Konferenz mit YouTube verknüpft ist (aber nur dann), werden Daten an Google Ireland Limited übertragen und gemäß der [Google-Datenschutzerklärung](https://www.google.de/intl/de/policies/privacy/) verarbeitet.
 
 <h2 id="verantwortung">Wer ist verantwortlich?</h2>
 
 Diensteanbieter im Sinne des § 2 Nr. 1 Telemediengesetz ist:
 
 LUKi e.V.  
-Jakobstr.5  
-66130 Saarbrücken  
+c/o Janssen  
+Beginenhof 3  
+44791 Bochum  
 Deutschland
 
 E-Mail: <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#118;&#x6f;&#114;&#x73;&#116;&#x61;&#110;&#100;&#64;&#108;&#x75;&#x6b;&#x69;&#46;&#x6f;&#114;&#x67;" class="email">&#118;&#x6f;&#114;&#x73;&#116;&#x61;&#110;&#100;&#64;&#108;&#x75;&#x6b;&#x69;&#46;&#x6f;&#114;&#x67;</a>
@@ -36,6 +35,8 @@ Weil wir ein kleiner Verein sind, haben wir keine(n) Datenschutzbeauftragte(n) b
 **Wenn du zu deinem Meeting Personen einlädst,** die nicht zu deinem engsten Familien- und Freundeskreis gehören, *bist du gegenüber diesen Personen Verantwortlicher* im Sinne des Art. 4 Nr. 7 DSGVO oder (wenn du für eine kirchliche Stelle arbeitest) im Sinne des kirchlichen Datenschutzrechts. Wenn du dabei nicht als Einzelperson handelst, sondern als haupt- oder ehrenamtliche:r Mitarbeiter:in einer Organisation oder kirchlichen Stelle, ist idR. deine Organisation oder kirchliche Stelle verantwortlich (kläre Fragen zur Verantwortlichkeit innerhalb deiner Organisation oder Dienststelle bitte mit deinen Vorgesetzten). Der *LUKi e.V. verarbeitet Daten deiner Meeting-Teilnehmer:innen dann als Auftragsverarbeiter* im Sinne des Art. 4 Nr. 8 DSGVO. Eine Vereinbarung zur Auftragsverarbeitung gemäß Art. 28 DSGVO sowie unsere Unterwerfung unter die kirchliche Datenschutzaufsicht findest du bei unseren [Nutzungsbedingungen](terms.html#avv).
 
 **Wenn du einen Link oder Telefoneinwahldaten zu einem Jitsi-Meeting von einer anderen Person bekommen hast**, ist *die Person, Organisation oder kirchliche Stelle, die dich zum Meeting eingeladen hat, verantwortlich* im Sinne des Art. 4 Nr. 7 DSGVO oder im Sinne des kirchlichen Datenschutzrechts. Wende dich mit Datenschutzfragen bitte zuerst an diese Person, Organisation oder kirchliche Stelle.
+
+Ausnahme: Wenn die Person, die dich eingeladen hat, zu deinem engsten Familien- oder Freundeskreis gehört, gilt das Datenschutzrecht im Verhältnis zwischen dir und der einladenden Person nicht. Dann ist der LUKi e.V. für die Verarbeitung deiner Daten auf dem Jitsi-Server verantwortlich. Dafür gelten die folgenden Auskünfte.
 
 **Wenn du einen Link oder Telefoneinwahldaten zu einem Jitsi-Meeting vom LUKi e.V. bekommen hast**, ist der LUKi e.V. für die Datenverarbeitung in diesem Meeting verantwortlich. Dann gelten die folgenden Auskünfte.
 
@@ -83,12 +84,8 @@ Wenn das Meeting beendet wird, werden alle Daten auf unserem Server gelöscht. I
 ### Wer kann Daten sehen und hören?
 
 - **Teilnehmer:innen eines Jitsi-Meetings** (nur Videokonferenzdaten)
-- unsere **Serveradministratoren** (wenn das zur Behebung von Problemen erforderlich ist)
 - unser Serverprovider, die **[Hetzner Online GmbH](https://www.hetzner.de/)** (kontrolliert durch einen Auftragsverarbeitungsvertrag)
 - unser Telefonprovider, die **[sipgate GmbH](https://www.sipgate.de/)** (unterliegt dem Fernmeldegeheimnis)
-- **YouTube / Google Ireland Limited** (nur wenn Meetings mit YouTube-Livestreams verknüpft werden oder YouTube-Videos im Meeting geteilt werden)
-- **Behörden,** denen LUKi e.V. aufgrund gesetzlicher Verpflichtungen Daten offenlegen muss
-- **Sonstige** Personen oder Organisationen, wenn gerichtlich festgestellt wird, dass LUKi e.V. diesen Personen oder Organisationen Daten offenlegen muss
 
 ### Werden Daten in Länder außerhalb von EU und EWR übertragen?
 
@@ -114,7 +111,7 @@ Wende dich bitte per E-Mail an <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#x6f;&#58
 
 #### Recht auf Beschwerde
 
-Wenn du der Meinung bist, dass wir deine Rechte verletzen, kannst du dich bei der für LUKi e.v. zuständigen Datenschutz-Aufsichtsbehörde beschweren. LUKi e.V. ist im Vereinsregister Augsburg, Bayern, registriert. Zuständig ist deshalb:
+Wenn du der Meinung bist, dass wir deine Rechte verletzen, kannst du dich bei der Datenschutz-Aufsichtsbehörde, die für deinen gewöhnlichen Aufenhaltsort oder für den LUKi e.V. zuständig ist, beschweren. LUKi e.V. ist im Vereinsregister Augsburg, Bayern, registriert. Zuständig ist deshalb:
 
 Bayerisches Landesamt für Datenschutzaufsicht (BayLDA)
 Kontaktmöglichkeiten: <https://www.lda.bayern.de/de/kontakt.html>
@@ -123,7 +120,7 @@ Kontaktmöglichkeiten: <https://www.lda.bayern.de/de/kontakt.html>
 
 Wir verbessern jitsi.luki.org kontinuierlich. Wenn sich dabei Veränderungen bei der Datenverarbeitung ergeben, passen wir die Datenschutzerklärung an. Für Jitsi-Konferenzen gilt jeweils die Version, die am Beginn einer Konferenz aktuell ist. Wir empfehlen dir deshalb, vor jeder Konferenz hier vorbeizuschauen. Bisher gab es folgende Versionen:
 
-- 1.0 – vom 9.11.2020.
+- 1.0 – vom 15.11.2020.
 
 Wenn du Verbesserungsvorschläge hast, freuen wir uns darüber. Wir freuen uns auch über Fragen, weil sie uns helfen, den Text zu verbessern und verständlicher zu machen. Schick Fragen oder Verbesserungsvorschläge bitte per E-Mail an <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#x73;&#x75;&#112;&#112;&#x6f;&#114;&#116;&#64;&#108;&#x69;&#98;&#114;&#x65;&#x63;&#104;&#x75;&#114;&#x63;&#104;&#46;&#x6f;&#114;&#x67;" class="email">&#x73;&#x75;&#112;&#112;&#x6f;&#114;&#116;&#64;&#108;&#x69;&#98;&#114;&#x65;&#x63;&#104;&#x75;&#114;&#x63;&#104;&#46;&#x6f;&#114;&#x67;</a>.
 
