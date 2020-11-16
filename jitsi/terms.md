@@ -1,4 +1,4 @@
-# Nutzungsbedingungen und Vereinbarung zur Auftragsverarbeitung für jitsi.luki.org
+% Nutzungsbedingungen und Vereinbarung zur Auftragsverarbeitung für jitsi.luki.org
 
 jitsi.luki.org ist eine datensparsame Videokonferenzlösung. Wir vom [LUKi e.V.](https://luki.org) stellen dir unsere Serverarchitektur für Videokonferenzen mit Telefoneinwahl (im Folgenden „Jitsi-Server“ bzw. „Server“ genannt) uneigennützig zur Verfügung. Du kannst unseren Server nutzen, wenn du unsere Nutzungsbedingungen anerkennst. Wenn du andere Personen zu einer Videokonferenz einlädst, gilt für die Verarbeitung von Daten dieser Personen die Vereinbarung zur Auftragsverarbeitung.
 

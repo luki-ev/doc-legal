@@ -1,4 +1,4 @@
-# Datenschutz bei jitsi.luki.org
+% Datenschutz bei jitsi.luki.org
 
 jitsi.luki.org ist eine datensparsame Videokonferenzlösung, die auf [„Jitsi Meet“](https://jitsi.org/jitsi-meet/) basiert. Wir vom LUKi e.V. stellen dir unsere Serverarchitektur für Videokonferenzen mit Telefoneinwahl (im Folgenden „Jitsi-Server“ bzw. „Server“ genannt) uneigennützig zur Verfügung.
 
