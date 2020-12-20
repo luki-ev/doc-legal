@@ -82,7 +82,7 @@ Wir betreiben die Jitsi-Software auf einem Server, der von der [Hetzner Online G
 
 Sonstige Unterauftragsverhältnisse bestehen nicht und sind auch nicht geplant. Sie wären nur mit deiner Zustimmung zulässig.
 
-Für die Telefoneinwahl nutzen wir Dienstleistungen der [sipgate GmbH](https://www.sipgatebasic.de/). Weil hier Telekommunikationsleistungen im Sinne des Telekommunikationsgesetz (TKG) erbracht werden, gilt dies nicht als Auftragsverarbeitungsverhältnis, sondern als Inanspruchnahme einer fremden Fachleistung. Durch das Fernmeldegeheimnis und weitere Vorschriften des TKG ist aber auch hier sichergestellt, dass personenbezogene Daten angemessen geschützt werden.
+Für die Telefoneinwahl nutzen wir Dienstleistungen der [easybell GmbH](https://www.easybell.de/) und [sipgate GmbH](https://www.sipgatebasic.de/). Weil hier Telekommunikationsleistungen im Sinne des Telekommunikationsgesetz (TKG) erbracht werden, gilt dies nicht als Auftragsverarbeitungsverhältnis, sondern als Inanspruchnahme einer fremden Fachleistung. Durch das Fernmeldegeheimnis und weitere Vorschriften des TKG ist aber auch hier sichergestellt, dass personenbezogene Daten angemessen geschützt werden.
 
 ### 2.3 Technische und organisatorische Maßnahmen
 
