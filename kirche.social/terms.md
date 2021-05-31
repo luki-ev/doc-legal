@@ -21,7 +21,7 @@ E-Mail: [vorstand@luki.org](mailto:vorstand@luki.org)
 Vertretungsberechtigter Vorstand:
 
 <ul>
-<li><p>Christoph Settgast (Vorsitzende)</p></li>
+<li><p>Christoph Settgast (Vorsitzender)</p></li>
 <li><p>Philipp Ruess (2. Vorsitzender)</p></li>
 <li><p>Dorothee Janssen (Kassiererin)</p></li>
 </ul>
