@@ -11,8 +11,8 @@ mumble.luki.org ist eine datenschutzkonforme Audiokonferenzlösung. Wir vom LUKi
 
 Anbieter des Telemedienangebots mumble.luki.org und für die Datenverarbeitung durch diesen Mumble-Server verantwortlich ist:
 
-LUKi e.V.  
-c/o Janssen  
+LUKi e.V.
+c/o Janssen
 Beginenhof 3
 44791 Bochum
 Deutschland
