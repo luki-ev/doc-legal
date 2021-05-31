@@ -12,8 +12,9 @@ mumble.luki.org ist eine datenschutzkonforme Audiokonferenzlösung. Wir vom LUKi
 Anbieter des Telemedienangebots mumble.luki.org und für die Datenverarbeitung durch diesen Mumble-Server verantwortlich ist:
 
 LUKi e.V.  
-Jakobstr.5  
-66130 Saarbrücken  
+c/o Janssen  
+Beginenhof 3
+44791 Bochum
 Deutschland
 
 E-Mail: [&#x76;&#x6F;&#x72;&#x73;&#x74;&#x61;&#x6E;&#x64;&#x40;&#x6C;&#x75;&#x6B;&#x69;&#x2E;&#x6F;&#x72;&#x67;](mailto:&#x76;&#x6F;&#x72;&#x73;&#x74;&#x61;&#x6E;&#x64;&#x40;&#x6C;&#x75;&#x6B;&#x69;&#x2E;&#x6F;&#x72;&#x67;)
