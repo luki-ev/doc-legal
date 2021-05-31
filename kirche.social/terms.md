@@ -11,28 +11,28 @@ kirche.social ist eine [Mastodon-Instanz](https://joinmastodon.org). Wir vom LUK
 
 Anbieter von kirche.social und für die Datenverarbeitung durch diese Mastodon-Instanz verantwortlich ist:
 
-LUKi e.V.  
-Jakobstr.5  
-66130 Saarbrücken  
-Deutschland
+<p>LUKi e.V.<br/>
+c/o Janssen<br/>
+Beginenhof 3<br/>
+44791 Bochum</p>
 
 E-Mail: [vorstand@luki.org](mailto:vorstand@luki.org)
 
 Vertretungsberechtigter Vorstand:
 
-- Dorothee Janssen (Vorsitzende)
-
-- Johannes Brakensiek (2. Vorsitzender)
-
-- Helmut Willems (Kassier)
+<ul>
+<li><p>Christoph Settgast (Vorsitzende)</p></li>
+<li><p>Philipp Ruess (2. Vorsitzender)</p></li>
+<li><p>Dorothee Janssen (Kassiererin)</p></li>
+</ul>
 
 Vereinsregister beim Amtsgericht Augsburg VR 51290
 
 Inhaltlich Verantwortlicher für unsere Vereins-Accounts [@luki](https://kirche.social/users/luki) und [@librechurch](https://kirche.social/users/librechurch) gemäß § 55 Abs. 2 RStV ist:
 
-Johannes Brakensiek  
-Südseestraße 4  
-45357 Essen
+<p>Johannes Brakensiek<br>
+Am Helpoot 3<br>
+47178 Duisburg</p>
 
 Für eigene Informationen (d.h. für Inhalte der erklärenden Seiten und des User-Interface sowie für unsere Vereins-Accounts) sind wir gemäß § 7 Abs. 1 TMG nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8-10 TMG sind wir als Diensteanbieter aber nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine Haftung und Verantwortlichkeit ist jedoch erst möglich, sobald wir von einer Rechtsverletzung Kenntnis erhalten. Dann werden wir umgehend die nötigen Maßnahmen ergreifen.
 
