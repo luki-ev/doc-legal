@@ -85,8 +85,7 @@ Wenn das Meeting beendet wird, werden alle Daten auf unserem Server gelöscht. I
 
 - **Teilnehmer:innen eines Jitsi-Meetings** (nur Videokonferenzdaten)
 - unser Serverprovider, die **[Hetzner Online GmbH](https://www.hetzner.de/)** (kontrolliert durch einen Auftragsverarbeitungsvertrag)
-- unser erster Telefonprovider, die **[easybell GmbH](https://www.easybell.de/)** (unterliegt dem Fernmeldegeheimnis)
-- unser zweiter Telefonprovider, die **[sipgate GmbH](https://www.sipgate.de/)** (unterliegt dem Fernmeldegeheimnis)
+- unser Telefonprovider, die **[sipgate GmbH](https://www.sipgate.de/)** (unterliegt dem Fernmeldegeheimnis)
 
 ### Werden Daten in Länder außerhalb von EU und EWR übertragen?
 
