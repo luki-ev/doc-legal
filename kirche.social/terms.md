@@ -16,7 +16,7 @@ c/o Janssen<br/>
 Beginenhof 3<br/>
 44791 Bochum</p>
 
-E-Mail: [vorstand@luki.org](mailto:vorstand@luki.org)
+E-Mail: <a href=mailto:&#x76;&#x6F;&#x72;&#x73;&#x74;&#x61;&#x6E;&#x64;&#x40;&#x6C;&#x75;&#x6B;&#x69;&#x2E;&#x6F;&#x72;&#x67;>&#x76;&#x6F;&#x72;&#x73;&#x74;&#x61;&#x6E;&#x64;&#x40;&#x6C;&#x75;&#x6B;&#x69;&#x2E;&#x6F;&#x72;&#x67;</a>
 
 Vertretungsberechtigter Vorstand:
 
@@ -38,7 +38,7 @@ Für eigene Informationen (d.h. für Inhalte der erklärenden Seiten und des Use
 
 Weil wir ein kleiner Verein sind, haben wir keine(n) 
 Datenschutzbeauftragte(n) bestellt. Du kannst dich aber jederzeit mit 
-Fragen und Anliegen per E-Mail an unser Team wenden: [mastodon@librechurch.org.](mailto:mastodon@librechurch.org)
+Fragen und Anliegen per E-Mail an unser Team wenden: [&#x6D;&#x61;&#x73;&#x74;&#x6F;&#x64;&#x6F;&#x6E;&#x40;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x63;&#x68;&#x75;&#x72;&#x63;&#x68;&#x2E;&#x6F;&#x72;&#x67;.](mailto:&#x6D;&#x61;&#x73;&#x74;&#x6F;&#x64;&#x6F;&#x6E;&#x40;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x63;&#x68;&#x75;&#x72;&#x63;&#x68;&#x2E;&#x6F;&#x72;&#x67;)
 
 <h2 id="nutzungsbedingungen">2. Nutzungsbedingungen</h2>
 
@@ -50,7 +50,7 @@ Das Anlegen von Benutzerkonten erfolgt moderiert. D.h. nach deiner Registrierung
 
 Die Freischaltung deines Benutzerkontos erfolgt so schnell wie möglich. Bitte habe Verständnis dafür, dass wir das in unserer Freizeit tun und keine Bearbeitungsfristen nennen können.
 
-Wenn du **jünger als 18 Jahre** bist, müssen deine **Eltern** deinem Nutzungsverhältnis für kirche.social **zustimmen**. Wir schicken dir gerne ein Formular, mit dem du die Zustimmung nachweisen kannst – oder Formulare für deine ganze Jugendgruppe. Wende dich dazu bitte per E-Mail an [mastodon@librechurch.org](mailto:mastodon@librechurch.org).
+Wenn du **jünger als 18 Jahre** bist, müssen deine **Eltern** deinem Nutzungsverhältnis für kirche.social **zustimmen**. Wir schicken dir gerne ein Formular, mit dem du die Zustimmung nachweisen kannst – oder Formulare für deine ganze Jugendgruppe. Wende dich dazu bitte per E-Mail an [&#x6D;&#x61;&#x73;&#x74;&#x6F;&#x64;&#x6F;&#x6E;&#x40;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x63;&#x68;&#x75;&#x72;&#x63;&#x68;&#x2E;&#x6F;&#x72;&#x67;](mailto:&#x6D;&#x61;&#x73;&#x74;&#x6F;&#x64;&#x6F;&#x6E;&#x40;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x63;&#x68;&#x75;&#x72;&#x63;&#x68;&#x2E;&#x6F;&#x72;&#x67;).
 
 ### 2.2 Finanzierung und Haftung für den Betrieb
 
@@ -112,7 +112,7 @@ Informationen zur Bildung über freie Software und Infos über Angebote, die kir
 
 ### 3.3 Meldung von unerwünschtem Verhalten
 
-Wenn du das Verhalten anderer Nutzer:innen für unerwünscht hältst, kannst du den „Report“-Button verwenden, uns per Mail an [mastodon@librechurch.org](mailto:mastodon@librechurch.org) oder per Nachricht an den Account [@librechurch@kirche.social](https://kirche.social/@librechurch) benachrichtigen. Wir überprüfen alle Meldungen und ergreifen ggf. angemessene Maßnahmen. Wir schützen unter allen Umständen die Identität der meldenden Nutzer:innen.
+Wenn du das Verhalten anderer Nutzer:innen für unerwünscht hältst, kannst du den „Report“-Button verwenden, uns per Mail an [&#x6D;&#x61;&#x73;&#x74;&#x6F;&#x64;&#x6F;&#x6E;&#x40;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x63;&#x68;&#x75;&#x72;&#x63;&#x68;&#x2E;&#x6F;&#x72;&#x67;](mailto:&#x6D;&#x61;&#x73;&#x74;&#x6F;&#x64;&#x6F;&#x6E;&#x40;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x63;&#x68;&#x75;&#x72;&#x63;&#x68;&#x2E;&#x6F;&#x72;&#x67;) oder per Nachricht an den Account [@librechurch@kirche.social](https://kirche.social/@librechurch) benachrichtigen. Wir überprüfen alle Meldungen und ergreifen ggf. angemessene Maßnahmen. Wir schützen unter allen Umständen die Identität der meldenden Nutzer:innen.
 
 ### 3.4 Instanz-Sprachen: Deutsch und Englisch
 
@@ -187,7 +187,7 @@ Du kannst dein Mastodon-Konto löschen, wenn du eingeloggt bist und *„Profil b
 
 Du kannst Kopien deiner Daten in strukturierten, gängigen und maschinenlesbaren Formaten alle 7 Tage herunterladen, wenn du eingeloggt bist und *„Profil bearbeiten“, „Importieren und Exportieren“* sowie *„Datenexport“* anklickst.
 
-Wende dich bitte per E-Mail an [mastodon@librechurch.org](mailto:mastodon@librechurch.org), wenn du eins der anderen Rechte wahrnehmen willst.
+Wende dich bitte per E-Mail an [&#x6D;&#x61;&#x73;&#x74;&#x6F;&#x64;&#x6F;&#x6E;&#x40;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x63;&#x68;&#x75;&#x72;&#x63;&#x68;&#x2E;&#x6F;&#x72;&#x67;](mailto:&#x6D;&#x61;&#x73;&#x74;&#x6F;&#x64;&#x6F;&#x6E;&#x40;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x63;&#x68;&#x75;&#x72;&#x63;&#x68;&#x2E;&#x6F;&#x72;&#x67;), wenn du eins der anderen Rechte wahrnehmen willst.
 
 #### Recht auf Beschwerde
 
@@ -206,7 +206,7 @@ Wir verbessern kirche.social kontinuierlich. Wenn sich dabei Veränderungen bei 
 - 2.0 – 16. April 2020
 - 1.2 – 2. März 2019
 
-Wenn du Verbesserungsvorschläge hast, freuen wir uns darüber. Wir freuen uns auch über Fragen, weil sie uns helfen, den Text zu verbessern und verständlicher zu machen. Schick Fragen oder Verbesserungsvorschläge bitte per E-Mail an [mastodon@librechurch.org](mailto:mastodon@librechurch.org) oder schreibe deine Vorschläge in unser [GitHub-Repository]([https://github.com/luki-ev/doc-legal/blob/master/kirche.social/terms.md). Über die Aufnahme in den offiziellen Text der Instanz entscheidet der Vorstand des LUKi e.V.
+Wenn du Verbesserungsvorschläge hast, freuen wir uns darüber. Wir freuen uns auch über Fragen, weil sie uns helfen, den Text zu verbessern und verständlicher zu machen. Schick Fragen oder Verbesserungsvorschläge bitte per E-Mail an [&#x6D;&#x61;&#x73;&#x74;&#x6F;&#x64;&#x6F;&#x6E;&#x40;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x63;&#x68;&#x75;&#x72;&#x63;&#x68;&#x2E;&#x6F;&#x72;&#x67;](mailto:&#x6D;&#x61;&#x73;&#x74;&#x6F;&#x64;&#x6F;&#x6E;&#x40;&#x6C;&#x69;&#x62;&#x72;&#x65;&#x63;&#x68;&#x75;&#x72;&#x63;&#x68;&#x2E;&#x6F;&#x72;&#x67;) oder schreibe deine Vorschläge in unser [GitHub-Repository]([https://github.com/luki-ev/doc-legal/blob/master/kirche.social/terms.md). Über die Aufnahme in den offiziellen Text der Instanz entscheidet der Vorstand des LUKi e.V.
 
 ### Nutzung des Textes unter CC-Lizenz
 
