@@ -16,9 +16,9 @@ Wir sorgen mit folgenden Einstellungen dafür, dass Videokonferenzen bei jitsi.l
 Diensteanbieter im Sinne des § 2 Nr. 1 Telemediengesetz ist:
 
 LUKi e.V.  
-c/o Janssen  
-Beginenhof 3  
-44791 Bochum  
+c/o Christoph Settgast
+Oberstr. 49
+45468 Mülheim an der Ruhr
 Deutschland
 
 E-Mail: <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#118;&#x6f;&#114;&#x73;&#116;&#x61;&#110;&#100;&#64;&#108;&#x75;&#x6b;&#x69;&#46;&#x6f;&#114;&#x67;" class="email">&#118;&#x6f;&#114;&#x73;&#116;&#x61;&#110;&#100;&#64;&#108;&#x75;&#x6b;&#x69;&#46;&#x6f;&#114;&#x67;</a>

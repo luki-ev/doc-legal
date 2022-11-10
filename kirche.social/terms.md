@@ -12,9 +12,9 @@ kirche.social ist eine [Mastodon-Instanz](https://joinmastodon.org). Wir vom LUK
 Anbieter von kirche.social und für die Datenverarbeitung durch diese Mastodon-Instanz verantwortlich ist:
 
 <p>LUKi e.V.<br/>
-c/o Janssen<br/>
-Beginenhof 3<br/>
-44791 Bochum</p>
+c/o Christoph Settgast<br/>
+Oberstr. 49<br/>
+45468 Mülheim an der Ruhr</p>
 
 E-Mail: [vorstand@luki.org](mailto:vorstand@luki.org)
 
@@ -23,7 +23,7 @@ Vertretungsberechtigter Vorstand:
 <ul>
 <li><p>Christoph Settgast (Vorsitzender)</p></li>
 <li><p>Philipp Ruess (2. Vorsitzender)</p></li>
-<li><p>Dorothee Janssen (Kassiererin)</p></li>
+<li><p>Timotheus Pokorra (Kassierer)</p></li>
 </ul>
 
 Vereinsregister beim Amtsgericht Augsburg VR 51290
